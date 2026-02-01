@@ -1,0 +1,685 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-02-01",
+  "songs": [
+    {
+      "title": "A La Gran Muneca ('54)",
+      "artist": "Di Sarli",
+      "year": "1954",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4251b187ddd149d1a0c3d3e7212c90bb.mp3"
+    },
+    {
+      "title": "Adios Corazon",
+      "artist": "Di Sarli — R. Florio",
+      "year": "1958",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_da20871b17f64aa7a8fabf3efbbc9af9.mp3"
+    },
+    {
+      "title": "Adios Corazon",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1958",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_d68d09cf7b2e4be685550e05dc384795.mp3"
+    },
+    {
+      "title": "Amárras",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_342d27f35cc84bab8caf4f4fe03efcb1.mp3"
+    },
+    {
+      "title": "Bahia Blanca ('58)",
+      "artist": "Di Sarli",
+      "year": "1957",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_fa977603c3b74fd6ac1660267aa629ef.mp3"
+    },
+    {
+      "title": "Bar Exposición",
+      "artist": "Di Sarli",
+      "year": "1943",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_076d151c70c34553a1f138f972449311.mp3"
+    },
+    {
+      "title": "Catamarca",
+      "artist": "Di Sarli",
+      "year": "1940",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f9e922b747db4d25a559f93fcd7f6f82.mp3"
+    },
+    {
+      "title": "Champagne Tango ('58)",
+      "artist": "Di Sarli",
+      "year": "1958",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_49135308c428457a8a088d3bedb1758a.mp3"
+    },
+    {
+      "title": "Charlemos",
+      "artist": "Di Sarli — R. Rufino",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_0a8779c82208404cb57d986e77bab5d0.mp3"
+    },
+    {
+      "title": "Chau Pinela",
+      "artist": "Di Sarli — E. Famá",
+      "year": "1930",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_9ae6ffc811b14255aee9e5ca33efc5be.mp3"
+    },
+    {
+      "title": "Cicatrices",
+      "artist": "Di Sarli — S. Devin",
+      "year": "1930",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_bb3e372b3ecc4f0fb35ca950474ba441.mp3"
+    },
+    {
+      "title": "Con todo Mi Corazon",
+      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "year": "1946",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_96ab05800e794eeeb5f007b216291c4f.mp3"
+    },
+    {
+      "title": "Corazón ('39 Rufino)",
+      "artist": "Di Sarli — R. Rufino",
+      "year": "1939",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_05437ca3bc5a4269a1f50adfdb277c85.mp3"
+    },
+    {
+      "title": "Cosas Olvidades",
+      "artist": "Di Sarli — R. Rufino",
+      "year": "1940",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_be4c665b68e147cb8ef2af3ca926c9f8.mp3"
+    },
+    {
+      "title": "Cuidao con Los 50",
+      "artist": "Di Sarli",
+      "year": "1942",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_d34860c005eb47f0b5c37140d82b3aa9.mp3"
+    },
+    {
+      "title": "Derrotado",
+      "artist": "Di Sarli — R. Florio",
+      "year": "1956",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_3f794c0a63fe4d00b09c4c3b29a5ad27.mp3"
+    },
+    {
+      "title": "Dime Mi Amor",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_da386ed4b56b4235a188d7f07225b845.mp3"
+    },
+    {
+      "title": "El Abrojo",
+      "artist": "Di Sarli",
+      "year": "1958",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e0988b2cf4084978aedd4d365b091083.mp3"
+    },
+    {
+      "title": "El africano",
+      "artist": "D'Arienzo",
+      "year": "1937",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b64f2f5cb9a74dc984a98aef22fbe61d.mp3"
+    },
+    {
+      "title": "El choclo ('37)",
+      "artist": "D'Arienzo",
+      "year": "1937",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_c51b51ff669b439cbbe2e7c78315c977.mp3"
+    },
+    {
+      "title": "El Choclo ('54)",
+      "artist": "Di Sarli",
+      "year": "1954",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_01b7fac805ce4ecc8e1fffad9ac9b190.mp3"
+    },
+    {
+      "title": "El Entrerriano ('54)",
+      "artist": "D'Arienzo",
+      "year": "1954",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_c02e2a81cb5d49d09867f8ccf4c81ede.mp3"
+    },
+    {
+      "title": "El Flete",
+      "artist": "D'Arienzo",
+      "year": "1936",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b41c4440d0104f8ca14e925f806939d8.mp3"
+    },
+    {
+      "title": "El Huracán",
+      "artist": "D'Arienzo",
+      "year": "1944",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_97dfc2411ca34509a7e8c363603a4cb6.mp3"
+    },
+    {
+      "title": "El Internado ('54)",
+      "artist": "D'Arienzo",
+      "year": "1954",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_5eebafcfeed3402ea5b5c08b1a562b17.mp3"
+    },
+    {
+      "title": "El Jagüel",
+      "artist": "Di Sarli",
+      "year": "1943",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_767caecd04e84cdfafa9f9aa0dca5df9.mp3"
+    },
+    {
+      "title": "El Once ('46)",
+      "artist": "Di Sarli",
+      "year": "1946",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e0b0a25df1c549a195e022aa86212e9c.mp3"
+    },
+    {
+      "title": "El Once ('54)",
+      "artist": "Di Sarli",
+      "year": "1954",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_81d2e9fe5a9c46eaab0f08a73a1f67ca.mp3"
+    },
+    {
+      "title": "El Penado 14",
+      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "year": "1947",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b7b8110f922c4302b96151ee0c3395e1.mp3"
+    },
+    {
+      "title": "El Pensamiento",
+      "artist": "D'Arienzo",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_426953582ccd4c7ea00ce5f7a9aa7d65.mp3"
+    },
+    {
+      "title": "El Pollo Ricardo",
+      "artist": "Di Sarli",
+      "year": "1940",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b9f71e0cdd0c4bf48940a97e1ce58a7a.mp3"
+    },
+    {
+      "title": "El Pollo Ricardo ('46)",
+      "artist": "Di Sarli",
+      "year": "1946",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e4463e3046ed45778049d3f3102d4e68.mp3"
+    },
+    {
+      "title": "El Porteñito",
+      "artist": "D'Arienzo",
+      "year": "1937",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_5a5bf4145e9a432692d6b729af620887.mp3"
+    },
+    {
+      "title": "El Romantico ('44)",
+      "artist": "D'Arienzo",
+      "year": "1944",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_dbfbc5be796d4b8c9ec94b62a84c33da.mp3"
+    },
+    {
+      "title": "El ultimo cafe",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1964",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_9ec5dcfdb1964c20b4df234356d91167.mp3"
+    },
+    {
+      "title": "En Un Beso La Vida",
+      "artist": "Di Sarli — R. Rufino",
+      "year": "1940",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_8e2ac24d1dcf471dbc55427f0acb7437.mp3"
+    },
+    {
+      "title": "Ensueños",
+      "artist": "Di Sarli",
+      "year": "1943",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_bebed3e1ffc541da9b95c842b2bffe9c.mp3"
+    },
+    {
+      "title": "Felicia ('39)",
+      "artist": "D'Arienzo",
+      "year": "1939",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_1b5d8dbcc3dd41f29a48e7e83e97fe2d.mp3"
+    },
+    {
+      "title": "Flora",
+      "artist": "Di Sarli — E. Famá",
+      "year": "1930",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_94f2beda109f4512b54351494dd04808.mp3"
+    },
+    {
+      "title": "Hasta Siempre Amor",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1958",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_767dc2e21bd94fa6b6edf8e23fac8317.mp3"
+    },
+    {
+      "title": "Humillación",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_a8a793edb1c84305bfb17f6ee7f8c393.mp3"
+    },
+    {
+      "title": "Indio Manso",
+      "artist": "Di Sarli",
+      "year": "1958",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b0d43f9cde264d058e22d90d2f17b8a9.mp3"
+    },
+    {
+      "title": "Jueves ('55)",
+      "artist": "D'Arienzo",
+      "year": "1955",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_dd4b986e0d6c43388abae203dfdc3be3.mp3"
+    },
+    {
+      "title": "Junto A Tu Corazón",
+      "artist": "Di Sarli — A. Podestá",
+      "year": "1942",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_5088051784bb423c80c3c1bcc9dd551b.mp3"
+    },
+    {
+      "title": "La Catrera ('55)",
+      "artist": "D'Arienzo",
+      "year": "1955",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6857f3e15e694e0cba91bde4a28e1136.mp3"
+    },
+    {
+      "title": "La Estancia",
+      "artist": "Di Sarli — E. Famá",
+      "year": "1930",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7c129e68188f4da1a2757a3b1c692e44.mp3"
+    },
+    {
+      "title": "La Mentirosa",
+      "artist": "D'Arienzo",
+      "year": "1944",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_faf424d7b97d4be5af5d8d7668dc0402.mp3"
+    },
+    {
+      "title": "La Morocha ('54)",
+      "artist": "Di Sarli",
+      "year": "1954",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e39c972522784fbbb4dd71a778a88eb5.mp3"
+    },
+    {
+      "title": "La Racha",
+      "artist": "Di Sarli",
+      "year": "1947",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_ba61a10b7df7430f80416e27056695b9.mp3"
+    },
+    {
+      "title": "La Trilla",
+      "artist": "Di Sarli",
+      "year": "1940",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_daaa92d5cb954b71a61992469014b16a.mp3"
+    },
+    {
+      "title": "Lilian",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6e52d82d1a9e40a0985de35c9cc140d8.mp3"
+    },
+    {
+      "title": "Lo Pasado Pasó",
+      "artist": "Di Sarli — R. Rufino",
+      "year": "1940",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_54508df59cd246869d440a5fd2070954.mp3"
+    },
+    {
+      "title": "Loca ('55)",
+      "artist": "D'Arienzo",
+      "year": "1955",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_900b41e1b2704756b6177883e8a53946.mp3"
+    },
+    {
+      "title": "Maipo",
+      "artist": "D'Arienzo",
+      "year": "1939",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4ce8eb16a53a4ffe914677aa3ce7b5bc.mp3"
+    },
+    {
+      "title": "Maldita",
+      "artist": "Di Sarli — E. Famá",
+      "year": "1931",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6b2779eb4cf743e8b869ed2f882f0059.mp3"
+    },
+    {
+      "title": "Mandria",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_08a0bc4c86e24101b2177172ad39b60e.mp3"
+    },
+    {
+      "title": "Mi Amor Y Tu Amor",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1957",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_13a86289738644abbaf7f2bf334dc6fc.mp3"
+    },
+    {
+      "title": "Muchachita De Paris",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1958",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_2fe92a3caa564aafb5f962dfed5fe858.mp3"
+    },
+    {
+      "title": "Nada Mas ('38)",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1938",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f493a9a4c36842629d8af496dd14949f.mp3"
+    },
+    {
+      "title": "Nido Gaucho ('42)",
+      "artist": "Di Sarli — A. Podesta",
+      "year": "1942",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_27e659d476914f5ab00a03e85687ec9c.mp3"
+    },
+    {
+      "title": "No Está",
+      "artist": "Di Sarli — A. Podesta",
+      "year": "1942",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_26ea09cf38fd472d88de1ac27dfc9420.mp3"
+    },
+    {
+      "title": "No mientas",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1938",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_2a66bc71b3d447d694b7f91edb99db76.mp3"
+    },
+    {
+      "title": "No Nos Veremos Nunca",
+      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f1c25267bb014a55aafca79104649898.mp3"
+    },
+    {
+      "title": "Nobleza De Arrabal",
+      "artist": "Di Sarli",
+      "year": "1940",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f246928529784db6a6d632f73d2143d0.mp3"
+    },
+    {
+      "title": "Nueve de Julio ('35)",
+      "artist": "D'Arienzo",
+      "year": "1935",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_8246f3baccee4a9dbe2529be595a703d.mp3"
+    },
+    {
+      "title": "Nueve Puntos",
+      "artist": "Di Sarli",
+      "year": "1943",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cc251044b48d4b9a9508f8799d7fc9f6.mp3"
+    },
+    {
+      "title": "Paciencia ('37)",
+      "artist": "D'Arienzo — Carbel, E.",
+      "year": "1937",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_2724eaca31ba4d1aad0ed711e8dc4838.mp3"
+    },
+    {
+      "title": "Pampa ('39)",
+      "artist": "D'Arienzo",
+      "year": "1939",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_82b6cac5e44f4512b6ce157c46629e10.mp3"
+    },
+    {
+      "title": "Por Qué Razon",
+      "artist": "D'Arienzo",
+      "year": "1939",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_bd79cbb5609f4f4980297627b0e7cfe9.mp3"
+    },
+    {
+      "title": "Por qué regresas tú",
+      "artist": "Di Sarli — R. Florio",
+      "year": "1956",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_ae56659fbffe40eea73c80ee933fa864.mp3"
+    },
+    {
+      "title": "Porteño Y Bailarin",
+      "artist": "Di Sarli — J. Duran",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_84cb90f48cd44f66ad9b76b59d04b80c.mp3"
+    },
+    {
+      "title": "Shusheta",
+      "artist": "Di Sarli",
+      "year": "1940",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_22779afe81724a45b1a8aba843e56686.mp3"
+    },
+    {
+      "title": "Si la llegaran a ver",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1943",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e348fd19c8744a1295dd4dd6f83ca959.mp3"
+    },
+    {
+      "title": "Siete Palabras",
+      "artist": "Di Sarli",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f861b33c9a0e4b51a485ba58eaeba143.mp3"
+    },
+    {
+      "title": "Sobre El Pucho",
+      "artist": "Di Sarli — E. Famá",
+      "year": "1931",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_51238837ec8c49f4845a3ef2d10737cd.mp3"
+    },
+    {
+      "title": "Sobre el pucho",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_181c4ff981294e20863ab5fde0b10069.mp3"
+    },
+    {
+      "title": "Solamente Ella",
+      "artist": "Di Sarli — J. Duran",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_33f8ba251989478c9362900850d9a11c.mp3"
+    },
+    {
+      "title": "Soñemos",
+      "artist": "Di Sarli — R. Florio",
+      "year": "1957",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_68fdbd350c1b4c0f85b10642fe177a8f.mp3"
+    },
+    {
+      "title": "Tango Brujo",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1943",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_db4fdaa5645742fcad55afcfb4a0801e.mp3"
+    },
+    {
+      "title": "Te Espero En Rodriguez Peña",
+      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "year": "1946",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f195d414c72846fda033eb2e5f7d5ea4.mp3"
+    },
+    {
+      "title": "Tierrita",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4ea0fd307e6c4e3e839c3df356714e6d.mp3"
+    },
+    {
+      "title": "Tinta Verde ('45)",
+      "artist": "Di Sarli",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_67b5fd49fb114fe488da739369e9f568.mp3"
+    },
+    {
+      "title": "Tinta Verde ('54)",
+      "artist": "Di Sarli",
+      "year": "1954",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_45619511385b40eb94cf7ead00f31304.mp3"
+    },
+    {
+      "title": "Trago Amargo ('39)",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_3d9fc0e2ee3040d8b14cffaadf71f84d.mp3"
+    },
+    {
+      "title": "Tu Intimo Secreto",
+      "artist": "Di Sarli — J. Duran",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_df7daf09f6d84bbd8d2d4aa8955f1e3e.mp3"
+    },
+    {
+      "title": "Tus Labios Me Dirán",
+      "artist": "Di Sarli — J. Duran",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_ebc5737c580a4858853d1e727620bbb9.mp3"
+    },
+    {
+      "title": "Una Fija ('58)",
+      "artist": "Di Sarli",
+      "year": "1958",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_3299581d3fb648c9a03e420bb52e5e96.mp3"
+    },
+    {
+      "title": "Uno",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1943",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_9c84054b761f49a3bb32ea5e7c2e0024.mp3"
+    },
+    {
+      "title": "Va A Cantar Un Ruisenor",
+      "artist": "Di Sarli — A. Podesta",
+      "year": "1942",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_99b009eb575a42a7a8a5b91fe60c5cbe.mp3"
+    },
+    {
+      "title": "Venus",
+      "artist": "D'Arienzo",
+      "year": "1944",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_d33201a887494692ae5b02b5a27e10a0.mp3"
+    },
+    {
+      "title": "Vieja Luna",
+      "artist": "Di Sarli — J. Duran",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_0451f178d424496087d72f81af46fdbe.mp3"
+    },
+    {
+      "title": "Volver a soñar",
+      "artist": "Di Sarli — R. Rufino",
+      "year": "1940",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7e7fd9ce96a1488e8043db4fa4c616f1.mp3"
+    },
+    {
+      "title": "Volver A Vernos",
+      "artist": "Di Sarli — A. Podesta",
+      "year": "1942",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_93feb220d11a43db8f8b3da33adf79b0.mp3"
+    },
+    {
+      "title": "Y Todavia Te Quiero",
+      "artist": "Di Sarli — R. Florio",
+      "year": "1956",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_a37e0ba3701b42d9b01b11587abaad27.mp3"
+    },
+    {
+      "title": "Ya Estamos Iguales",
+      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_c42295a841eb4d8293d3fd9ef455849b.mp3"
+    },
+    {
+      "title": "Ya Lo Ves",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_2948f4bbb4634cf4a0a3916724982190.mp3"
+    },
+    {
+      "title": "Yunta Brava",
+      "artist": "D'Arienzo",
+      "year": "1939",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_98010fb7bb3e4e83b24e5b53517cab34.mp3"
+    }
+  ]
+}
