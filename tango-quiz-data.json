@@ -1,0 +1,138 @@
+{
+  "title": "Tango Music Quiz - Odd One Out",
+  "description": "Test your knowledge of tango orchestras, singers, and styles",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Era",
+      "question": "Which one of these doesn’t belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Ensueños",
+          "artist": "Di Sarli",
+          "year": "1943",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_bebed3e1ffc541da9b95c842b2bffe9c.mp3"
+        },
+        {
+          "label": "B",
+          "song": "La Cachila ('41)",
+          "artist": "Di Sarli",
+          "year": "Tango - instrumental",
+          "genre": "https://static.wixstatic.com/mp3/22cbfd_fb9b206b10484031a543d75488d74a33.mp3",
+          "audioUrl": "1941"
+        },
+        {
+          "label": "C",
+          "song": "Una Fija ('58)",
+          "artist": "Di Sarli",
+          "year": "Tango - instrumental",
+          "genre": "https://static.wixstatic.com/mp3/22cbfd_3299581d3fb648c9a03e420bb52e5e96.mp3",
+          "audioUrl": "1958"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "These are all Di Sarli instrumentals. A & B are from 1941. C is from 1954."
+    },
+    {
+      "id": 2,
+      "category": "Singer",
+      "question": "Which one of these doesn’t belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Nada Mas ('38) ",
+          "artist": "D'Arienzo — Echague, A.",
+          "year": "1938",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_f493a9a4c36842629d8af496dd14949f.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Uno",
+          "artist": "D'Arienzo — Mauré, H.",
+          "year": "Tango - vocal",
+          "genre": "https://static.wixstatic.com/mp3/22cbfd_9c84054b761f49a3bb32ea5e7c2e0024.mp3",
+          "audioUrl": "1943"
+        },
+        {
+          "label": "C",
+          "song": "Pensalo Bien",
+          "artist": "D'Arienzo — Echague, A.",
+          "year": "Tango - vocal",
+          "genre": "https://static.wixstatic.com/mp3/22cbfd_cc94dbf75b1a4681be855ceba92e065c.mp3",
+          "audioUrl": "1938"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "These are all D’Arienzo vocals. A & B are sung by Echague. C is sung by Maure."
+    },
+    {
+      "id": 3,
+      "category": "Mood",
+      "question": "Which one of these doesn’t belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Malandraca",
+          "artist": "Pugliese",
+          "year": "1949",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_e4c4d5fae81a4715a643b15803f1e5fc.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Tiny",
+          "artist": "Pugliese",
+          "year": "Tango - instrumental",
+          "genre": "https://static.wixstatic.com/mp3/22cbfd_0d2c424c6ee74159aebb589176fb445d.mp3",
+          "audioUrl": "1945"
+        },
+        {
+          "label": "C",
+          "song": "El Remate",
+          "artist": "Pugliese",
+          "year": "Tango - instrumental",
+          "genre": "https://static.wixstatic.com/mp3/22cbfd_e2102c59a13f4be6b0ea40a1f14d827e.mp3",
+          "audioUrl": "1944"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "These are all Pugliese instrumentals. A is darker and more intense than the other two."
+    },
+    {
+      "id": 4,
+      "category": "Orchestra",
+      "question": "Which one of these doesn’t belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Déjame, no quiero verte nunca más ",
+          "artist": "Di Sarli — Podestá, A.",
+          "year": "1947",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_37a7a1c02ce640e0a5fb2e7657eb101d.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Griseta",
+          "artist": "Di Sarli — Rufino, R.",
+          "year": "Tango - vocal",
+          "genre": "https://static.wixstatic.com/mp3/22cbfd_61ef2e583ae1404da5c55f2d551dd767.mp3",
+          "audioUrl": "1941"
+        },
+        {
+          "label": "C",
+          "song": "Una Vez",
+          "artist": "Pugliese — Morán, A.",
+          "year": "Tango - vocal",
+          "genre": "https://static.wixstatic.com/mp3/22cbfd_4c70e70cdc9848b2828147d4f097a5b5.mp3",
+          "audioUrl": "1946"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "A & B are Di Sarli songs. C is Pugliese."
+    }
+  ]
+}
