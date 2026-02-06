@@ -1,165 +1,45 @@
 {
-  "version": "4.0",
-  "lastUpdated": "2026-02-04",
+  "version": "5.0",
+  "lastUpdated": "2026-02-06",
   "songs": [
     {
-      "title": "Dichas que Vivi",
-      "artist": "Biagi — Falgas, A.",
-      "year": "1939",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_01ab89fa0a3c4deea8f53781a3cb4d72.mp3",
-      "": ""
-    },
-    {
-      "title": "Viejo Porton",
-      "artist": "Biagi — Falgas, A.",
-      "year": "1938",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_c4ee865e9fe24be3bac813a436cd038c.mp3",
-      "": ""
-    },
-    {
-      "title": "Cuatros Palabras",
-      "artist": "Biagi — Ortiz, J.",
-      "year": "1941",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_adf82a466f3b45699df988e690443d83.mp3",
-      "": ""
-    },
-    {
-      "title": "Con Los Amigos",
-      "artist": "Canaro",
-      "year": "1943",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_fee0d70ddd924a75837761c901833378.mp3",
-      "": ""
-    },
-    {
-      "title": "Cuando Estaba Enamorado",
-      "artist": "Canaro",
-      "year": "1940",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_0d2e40d16d774decbf2f0834ece0875a.mp3",
-      "": ""
-    },
-    {
-      "title": "La milonga que hacia falta",
-      "artist": "Canaro",
-      "year": "1938",
-      "genre": "Milonga - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_19a656ce84f9428caa7eff43d5fab59d.mp3",
+      "title": "Por La Huella",
+      "artist": "Biagi — Saavedra",
+      "year": "1948",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_bb1ab53358df45e0b23ffdc0842f4473.mp3",
       "": ""
     },
     {
       "title": "La Zandunga",
-      "artist": "Canaro",
+      "artist": "Canaro — Amor",
       "year": "1939",
       "genre": "Vals - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_7702a3d2b1c341ec8b7cab287859d65a.mp3",
       "": ""
     },
     {
-      "title": "Milonga Criolla",
-      "artist": "Canaro",
-      "year": "1936",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_cd1c2afc5cea4fc5bf82b53af67f3440.mp3",
-      "": ""
-    },
-    {
       "title": "Negrito",
-      "artist": "Canaro",
+      "artist": "Canaro — Galan",
       "year": "1934",
       "genre": "Milonga - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_2f5f96af204a4dca8da167136887e22f.mp3",
       "": ""
     },
     {
-      "title": "Tu Vieja Venata",
-      "artist": "Canaro",
-      "year": "1945",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7f3cf218f5ff4f41979c460530f1c446.mp3",
-      "": ""
-    },
-    {
-      "title": "Milonga del 900",
-      "artist": "Canaro — Fama, E.",
-      "year": "1933",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_d367b2a3dbc34ed08f12a83800058e0e.mp3",
-      "": ""
-    },
-    {
-      "title": "Aunque No Lo Crean",
-      "artist": "Canaro — Maida, R.",
-      "year": "1935",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_469a540087ad4f4e98466b8fc2e0b76a.mp3",
-      "": ""
-    },
-    {
-      "title": "Como Las Flores",
-      "artist": "Canaro — Maida, R.",
+      "title": "Milonga Criolla",
+      "artist": "Canaro — Maida",
       "year": "1936",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_dccf2e194e0f4a1a934e8f7a81b39ca0.mp3",
-      "": ""
-    },
-    {
-      "title": "Invierno",
-      "artist": "Canaro — Maida, R.",
-      "year": "1937",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_0144644955a04d4d9c3507ae7282197e.mp3",
-      "": ""
-    },
-    {
-      "title": "La Copla Porteña",
-      "artist": "Canaro — Maida, R.",
-      "year": "1935",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_5508c0b079f7455fa6addd94487c613f.mp3",
-      "": ""
-    },
-    {
-      "title": "La Cuarenta",
-      "artist": "Canaro — Maida, R.",
-      "year": "1937",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_ba393393c3024a75ae6040f273f3923d.mp3",
-      "": ""
-    },
-    {
-      "title": "Largas las Penas",
-      "artist": "Canaro — Maida, R.",
-      "year": "1935",
       "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_9a4205cd240243a386449e6e2c7d4466.mp3",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cd1c2afc5cea4fc5bf82b53af67f3440.mp3",
       "": ""
     },
     {
-      "title": "Novia",
-      "artist": "Canaro — Maida, R.",
-      "year": "1937",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_de134accf0a94ca285adcd6d911b1ae5.mp3",
-      "": ""
-    },
-    {
-      "title": "Recuerdos De Paris",
-      "artist": "Canaro — Maida, R.",
-      "year": "1937",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_dc00b54fb8ec42658fb0570e0bc23065.mp3",
-      "": ""
-    },
-    {
-      "title": "Soledad",
-      "artist": "Canaro — Maida, R.",
-      "year": "1935",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_c88ad3cc5d324a7b814f45df64b2a3cc.mp3",
+      "title": "En Lo De Laura",
+      "artist": "D'Agostino — Vargas",
+      "year": "1943",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7a0ce79682844665a534947f55f98d23.mp3",
       "": ""
     },
     {
@@ -468,7 +348,7 @@
     },
     {
       "title": "El Penado 14",
-      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "artist": "D'Arienzo — Echague, A.",
       "year": "1947",
       "genre": "Tango - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_b7b8110f922c4302b96151ee0c3395e1.mp3",
@@ -476,7 +356,7 @@
     },
     {
       "title": "No Nos Veremos Nunca",
-      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "artist": "D'Arienzo — Echague, A.",
       "year": "1944",
       "genre": "Tango - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_f1c25267bb014a55aafca79104649898.mp3",
@@ -484,7 +364,7 @@
     },
     {
       "title": "Te Espero En Rodriguez Peña",
-      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "artist": "D'Arienzo — Echague, A.",
       "year": "1946",
       "genre": "Tango - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_f195d414c72846fda033eb2e5f7d5ea4.mp3",
@@ -492,7 +372,7 @@
     },
     {
       "title": "Ya Estamos Iguales",
-      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "artist": "D'Arienzo — Echague, A.",
       "year": "1945",
       "genre": "Tango - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_c42295a841eb4d8293d3fd9ef455849b.mp3",
@@ -544,14 +424,6 @@
       "year": "1943",
       "genre": "Tango - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_60fcb3b22abc44eea8cfb308b876e2ce.mp3",
-      "": ""
-    },
-    {
-      "title": "Si La Llegaran A Ver",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1943",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_595a7c516d024175947e88da98c9e416.mp3",
       "": ""
     },
     {
@@ -651,43 +523,11 @@
       "": ""
     },
     {
-      "title": "No Vuelvas Maria",
-      "artist": "De Angelis — Dante, C. y Martel, J.",
+      "title": "No Vuelvas María",
+      "artist": "De Angelis — Dante y Martel",
       "year": "1950",
       "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_b7864b11f83b42658afdbb075f84a797.mp3",
-      "": ""
-    },
-    {
-      "title": "Anibal Troilo",
-      "artist": "De Caro",
-      "year": "1949",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_f3816cfcddd345e18ca3cad89dc1a861.mp3",
-      "": ""
-    },
-    {
-      "title": "Tierra Querida",
-      "artist": "De Caro",
-      "year": "1952",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_e108514ee75f4300a3074fb6c636ed34.mp3",
-      "": ""
-    },
-    {
-      "title": "Todo Corazon",
-      "artist": "De Caro",
-      "year": "1951",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_851a3619471c45a39c9fa014467e986f.mp3",
-      "": ""
-    },
-    {
-      "title": "Mi Dolor",
-      "artist": "De Caro — Verri, O.",
-      "year": "1950",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_f59ee98c646f417dadab68db8ee01d80.mp3",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_20d478271c634ce38b14105b906ad606.mp3",
       "": ""
     },
     {
@@ -1035,14 +875,6 @@
       "": ""
     },
     {
-      "title": "Tu Íntimo Secreto",
-      "artist": "Di Sarli — Durán, J.",
-      "year": "1945",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_46b18f0812f14f3988d9902518adaf70.mp3",
-      "": ""
-    },
-    {
       "title": "Chau Pinela",
       "artist": "Di Sarli — E. Famá",
       "year": "1930",
@@ -1291,67 +1123,19 @@
       "": ""
     },
     {
-      "title": "Como Aquella Princesa",
-      "artist": "Fresedo — Ray, R.",
-      "year": "1937",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_4ee91b1cd6d446a29ff7c52da1ea8f2c.mp3",
-      "": ""
-    },
-    {
-      "title": "Niebla Del Riachuelo",
-      "artist": "Fresedo — Ray, R.",
-      "year": "1937",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_da5aea196768479eabd9541a21f04a6c.mp3",
-      "": ""
-    },
-    {
-      "title": "No Quiero Verte Llorar",
-      "artist": "Fresedo — Ray, R.",
-      "year": "1937",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_3bfecdb32849410a90a1359f943a75af.mp3",
-      "": ""
-    },
-    {
-      "title": "Recuerdos De Bohemia",
-      "artist": "Fresedo — Ray, R.",
-      "year": "1935",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_d501523c4aa142d583efa6f7b7586ebe.mp3",
-      "": ""
-    },
-    {
-      "title": "Sollozos",
-      "artist": "Fresedo — Ray, R.",
-      "year": "1937",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_4429d056adc8445c8afc991ea1515d6a.mp3",
-      "": ""
-    },
-    {
-      "title": "Mendocino",
-      "artist": "Laurenz — Bermúdez, C. & Linares, J.",
-      "year": "1944",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_d31d26993dfc44c99393b2da592a0782.mp3",
-      "": ""
-    },
-    {
-      "title": "La Vida es La Milonga",
-      "artist": "Laurenz — Podestá, A.",
-      "year": "1941",
+      "title": "La milonga que hacia falta",
+      "artist": "Donato — Lagos",
+      "year": "1938",
       "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_e936ac96338a40e69a2bb69f788f214e.mp3",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_19a656ce84f9428caa7eff43d5fab59d.mp3",
       "": ""
     },
     {
-      "title": "No Hay Tierra Como La Mía",
-      "artist": "Lomuto — Diaz, F.",
-      "year": "1939",
+      "title": "Milonga de los Florntines",
+      "artist": "O.T. Victor — Balcarce",
+      "year": "1937",
       "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_144b94d2dfbe499fb183378c78a403a1.mp3",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_df9ba45479af47daa3517b0f6d5de4fc.mp3",
       "": ""
     },
     {
@@ -1715,43 +1499,19 @@
       "": ""
     },
     {
-      "title": "Lagrimitas de Mii Corazón",
-      "artist": "Troilo — Rivero, E. y Ruiz F.",
-      "year": "1948",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_2cfb580ab9314f2cb50012ea9d35c70c.mp3",
-      "": ""
-    },
-    {
-      "title": "La Zandunga",
-      "artist": "Canaro — Amor",
-      "year": "1939",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7702a3d2b1c341ec8b7cab287859d65a.mp3",
-      "": ""
-    },
-    {
-      "title": "Milonga Criolla",
-      "artist": "Canaro — Maida",
-      "year": "1936",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_cd1c2afc5cea4fc5bf82b53af67f3440.mp3",
-      "": ""
-    },
-    {
       "title": "Tu Vieja Venata",
-      "artist": "Tanturi - Campos y Videla",
+      "artist": "Tanturi — Campos y Videla",
       "year": "1945",
       "genre": "Vals - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_7f3cf218f5ff4f41979c460530f1c446.mp3",
       "": ""
     },
     {
-      "title": "Por La Huella",
-      "artist": "Biagi — Saavedra",
-      "year": "1948",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_bb1ab53358df45e0b23ffdc0842f4473.mp3",
+      "title": "Con Los Amigos",
+      "artist": "Tanturi — Castillo",
+      "year": "1943",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_fee0d70ddd924a75837761c901833378.mp3",
       "": ""
     },
     {
@@ -1760,62 +1520,6 @@
       "year": "1948",
       "genre": "Vals - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_2cfb580ab9314f2cb50012ea9d35c70c.mp3",
-      "": ""
-    },
-    {
-      "title": "En Lo De Laura",
-      "artist": "D'Agostino — Vargas",
-      "year": "1943",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7a0ce79682844665a534947f55f98d23.mp3",
-      "": ""
-    },
-    {
-      "title": "Cuando Estaba Enamorado",
-      "artist": "Canaro — Amor",
-      "year": "1940",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_0d2e40d16d774decbf2f0834ece0875a.mp3",
-      "": ""
-    },
-    {
-      "title": "Negrito",
-      "artist": "Canaro — Galan",
-      "year": "1934",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_2f5f96af204a4dca8da167136887e22f.mp3",
-      "": ""
-    },
-    {
-      "title": "Con Los Amigos",
-      "artist": "Tanturi - Castillo",
-      "year": "1943",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_fee0d70ddd924a75837761c901833378.mp3",
-      "": ""
-    },
-    {
-      "title": "La milonga que hacia falta",
-      "artist": "Donato — Lagos",
-      "year": "1938",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_19a656ce84f9428caa7eff43d5fab59d.mp3",
-      "": ""
-    },
-    {
-      "title": "No Vuelvas María",
-      "artist": "De Angelis — Dante y Martel",
-      "year": "1950",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_20d478271c634ce38b14105b906ad606.mp3",
-      "": ""
-    },
-    {
-      "title": "Milonga de los Florntines",
-      "artist": "O.T. Victor — Balcarce",
-      "year": "1937",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_df9ba45479af47daa3517b0f6d5de4fc.mp3",
       "": ""
     }
   ]
