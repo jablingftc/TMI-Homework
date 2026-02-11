@@ -1,6 +1,6 @@
 {
-  "version": "5.0",
-  "lastUpdated": "2026-02-06",
+  "version": "10.0",
+  "lastUpdated": "2026-02-11",
   "songs": [
     {
       "title": "Por La Huella",
@@ -1696,6 +1696,246 @@
       "year": "1940",
       "genre": "Milonga - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_c693ba6f2ef643088792459f4f0bab24.mp3",
+      "": ""
+    },
+    {
+      "title": "Cuando Estaba Enamorado",
+      "artist": "Canaro — Amor",
+      "year": "1940",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_0d2e40d16d774decbf2f0834ece0875a.mp3",
+      "": ""
+    },
+    {
+      "title": "C.T.V.",
+      "artist": "Troilo",
+      "year": "1942",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7a9e61ccf9444d5ca7f22bb161f86653.mp3",
+      "": ""
+    },
+    {
+      "title": "Cachirulo",
+      "artist": "Troilo",
+      "year": "1941",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4ddd1a5bfa1549569677276596e066a4.mp3",
+      "": ""
+    },
+    {
+      "title": "Confesion",
+      "artist": "Troilo — Ruiz, F.",
+      "year": "1947",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6196173035ca4baa8d46e7bad8de6618.mp3",
+      "": ""
+    },
+    {
+      "title": "Cordon de Oro",
+      "artist": "Troilo",
+      "year": "1941",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_1d48cd4331994ad6b88d78d7a9643fad.mp3",
+      "": ""
+    },
+    {
+      "title": "Cristal",
+      "artist": "Troilo — Marino, A.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_51ac331c0c8c499ab586385cefd539a0.mp3",
+      "": ""
+    },
+    {
+      "title": "Cuando tallan los recuerdos",
+      "artist": "Troilo — Marino, A.",
+      "year": "1943",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7f67c4468ef54f6ab4394c0ae4615637.mp3",
+      "": ""
+    },
+    {
+      "title": "El Tamango",
+      "artist": "Troilo",
+      "year": "1941",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e0755a8f759a4690b446545dd8633f5f.mp3",
+      "": ""
+    },
+    {
+      "title": "En Esta Tarde Gris",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_ae2e1849433a40e7bea85db07351dc4f.mp3",
+      "": ""
+    },
+    {
+      "title": "Garras",
+      "artist": "Troilo — Marino, A.",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_53e24eabd0544745aefdd6fc3e03260e.mp3",
+      "": ""
+    },
+    {
+      "title": "Guapeando",
+      "artist": "Troilo",
+      "year": "1941",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_3fd4f419e8e54a0d8d8fdae8d184ae64.mp3",
+      "": ""
+    },
+    {
+      "title": "La Noche Que Te Fuiste",
+      "artist": "Troilo — Ruiz, F.",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_1b99167addab45cc983e923d60cb2779.mp3",
+      "": ""
+    },
+    {
+      "title": "La vi llegar",
+      "artist": "Troilo — Marino, A.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_5e77f0bb46d942ed82b503e006017e67.mp3",
+      "": ""
+    },
+    {
+      "title": "Maragata",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7c7e407e77f543bf9f69e6224bd09155.mp3",
+      "": ""
+    },
+    {
+      "title": "Maria",
+      "artist": "Troilo — Marino, A.",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_61a5fef84b7042e7808cbb2f232e3290.mp3",
+      "": ""
+    },
+    {
+      "title": "Milongueando En el 40",
+      "artist": "Troilo",
+      "year": "1941",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_c573f0a9d1c2424196761d5f87d13b8f.mp3",
+      "": ""
+    },
+    {
+      "title": "Mis Amigos de Ayer",
+      "artist": "Troilo — Ruiz, F.",
+      "year": "1946",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_44afe02f87cc4b75a77b312d44052518.mp3",
+      "": ""
+    },
+    {
+      "title": "Naranjo En Flor",
+      "artist": "Troilo — Ruiz, F.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_5a2df24940d34bc08c65b0e844efdc0e.mp3",
+      "": ""
+    },
+    {
+      "title": "Pa' que bailen los Muchachos ('42)",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1942",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_39627a3696054d58a85d5a6fd82228cd.mp3",
+      "": ""
+    },
+    {
+      "title": "Pájaro ciego",
+      "artist": "Troilo — Fiorentino, F. y Mandarino, A.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_fcefc7e1618443b58a66e456e0bc7564.mp3",
+      "": ""
+    },
+    {
+      "title": "Siga El Corso",
+      "artist": "Troilo — Marino, A.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_06ce404719e1415889446285ce728b84.mp3",
+      "": ""
+    },
+    {
+      "title": "Sin Palabras",
+      "artist": "Troilo — Marino, A.",
+      "year": "1946",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_558ba34e37f14c2c9362e240871a840c.mp3",
+      "": ""
+    },
+    {
+      "title": "Solo Se Quiere Una Vez",
+      "artist": "Troilo — Ruiz, F.",
+      "year": "1946",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_ae50ec9515824563a88cbf8a6b1b1683.mp3",
+      "": ""
+    },
+    {
+      "title": "Tabernero",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_db69e09331c34fe79c307f2bb2c11e84.mp3",
+      "": ""
+    },
+    {
+      "title": "Te aconsejo que me olvides",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_8c27788200a1468b819a3fd119b6952a.mp3",
+      "": ""
+    },
+    {
+      "title": "Tinta Roja",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_8f8c27f20afa413cb1d9b0628df3a150.mp3",
+      "": ""
+    },
+    {
+      "title": "Toda mi vida",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b8a652f3151e449eade5d80fd4a4e843.mp3",
+      "": ""
+    },
+    {
+      "title": "Torrente",
+      "artist": "Troilo — Marino, A.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4d1eba5c49af49d2a92193d8089d8c5f.mp3",
+      "": ""
+    },
+    {
+      "title": "Tres Amigos",
+      "artist": "Troilo — Marino, A.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b0b74a8be54741f2871198d66aa16751.mp3",
+      "": ""
+    },
+    {
+      "title": "Yuyo Verde",
+      "artist": "Troilo — Ruiz, F.",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e31acca5ef7846188f1325cfe89c0d2a.mp3",
       "": ""
     }
   ]
