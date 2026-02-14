@@ -5,44 +5,11 @@
     {
       "id": 1,
       "category": "Era",
-      "question": "Which one of these doesn’t belong?",
+      "question": "Which one of these doesn't belong?",
       "options": [
         {
           "label": "A",
-          "song": "Ensueños",
-          "artist": "Di Sarli",
-          "year": "1943",
-          "genre": "Tango - instrumental",
-          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_bebed3e1ffc541da9b95c842b2bffe9c.mp3"
-        },
-        {
-          "label": "B",
-          "song": "La Cachila ('41)",
-          "artist": "Di Sarli",
-          "year": "Tango - instrumental",
-          "genre": "https://static.wixstatic.com/mp3/22cbfd_fb9b206b10484031a543d75488d74a33.mp3",
-          "audioUrl": "1941"
-        },
-        {
-          "label": "C",
-          "song": "Una Fija ('58)",
-          "artist": "Di Sarli",
-          "year": "Tango - instrumental",
-          "genre": "https://static.wixstatic.com/mp3/22cbfd_3299581d3fb648c9a03e420bb52e5e96.mp3",
-          "audioUrl": "1958"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": "These are all Di Sarli instrumentals. A & B are from 1941. C is from 1954."
-    },
-    {
-      "id": 2,
-      "category": "Singer",
-      "question": "Which one of these doesn’t belong?",
-      "options": [
-        {
-          "label": "A",
-          "song": "Nada Mas ('38) ",
+          "song": "Nada Mas ('38)",
           "artist": "D'Arienzo — Echague, A.",
           "year": "1938",
           "genre": "Tango - vocal",
@@ -50,89 +17,122 @@
         },
         {
           "label": "B",
-          "song": "Uno",
-          "artist": "D'Arienzo — Mauré, H.",
-          "year": "Tango - vocal",
-          "genre": "https://static.wixstatic.com/mp3/22cbfd_9c84054b761f49a3bb32ea5e7c2e0024.mp3",
-          "audioUrl": "1943"
-        },
-        {
-          "label": "C",
-          "song": "Pensalo Bien",
+          "song": "No mientas",
           "artist": "D'Arienzo — Echague, A.",
-          "year": "Tango - vocal",
-          "genre": "https://static.wixstatic.com/mp3/22cbfd_cc94dbf75b1a4681be855ceba92e065c.mp3",
-          "audioUrl": "1938"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": "These are all D’Arienzo vocals. A & B are sung by Echague. C is sung by Maure."
-    },
-    {
-      "id": 3,
-      "category": "Mood",
-      "question": "Which one of these doesn’t belong?",
-      "options": [
-        {
-          "label": "A",
-          "song": "Malandraca",
-          "artist": "Pugliese",
-          "year": "1949",
-          "genre": "Tango - instrumental",
-          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_e4c4d5fae81a4715a643b15803f1e5fc.mp3"
-        },
-        {
-          "label": "B",
-          "song": "Tiny",
-          "artist": "Pugliese",
-          "year": "Tango - instrumental",
-          "genre": "https://static.wixstatic.com/mp3/22cbfd_0d2c424c6ee74159aebb589176fb445d.mp3",
-          "audioUrl": "1945"
-        },
-        {
-          "label": "C",
-          "song": "El Remate",
-          "artist": "Pugliese",
-          "year": "Tango - instrumental",
-          "genre": "https://static.wixstatic.com/mp3/22cbfd_e2102c59a13f4be6b0ea40a1f14d827e.mp3",
-          "audioUrl": "1944"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": "These are all Pugliese instrumentals. A is darker and more intense than the other two."
-    },
-    {
-      "id": 4,
-      "category": "Orchestra",
-      "question": "Which one of these doesn’t belong?",
-      "options": [
-        {
-          "label": "A",
-          "song": "Déjame, no quiero verte nunca más ",
-          "artist": "Di Sarli — Podestá, A.",
-          "year": "1947",
+          "year": "1938",
           "genre": "Tango - vocal",
-          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_37a7a1c02ce640e0a5fb2e7657eb101d.mp3"
-        },
-        {
-          "label": "B",
-          "song": "Griseta",
-          "artist": "Di Sarli — Rufino, R.",
-          "year": "Tango - vocal",
-          "genre": "https://static.wixstatic.com/mp3/22cbfd_61ef2e583ae1404da5c55f2d551dd767.mp3",
-          "audioUrl": "1941"
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_2a66bc71b3d447d694b7f91edb99db76.mp3"
         },
         {
           "label": "C",
-          "song": "Una Vez",
-          "artist": "Pugliese — Morán, A.",
-          "year": "Tango - vocal",
-          "genre": "https://static.wixstatic.com/mp3/22cbfd_4c70e70cdc9848b2828147d4f097a5b5.mp3",
-          "audioUrl": "1946"
+          "song": "No Nos Veremos Nunca",
+          "artist": "D'Arienzo — Echague, A.",
+          "year": "1944",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_f1c25267bb014a55aafca79104649898.mp3"
         }
       ],
       "correctAnswer": "C",
-      "explanation": "A & B are Di Sarli songs. C is Pugliese."
+      "explanation": "They are all recorded by the same singer (Echague) but C was recorded later. You can hear the slower tempo and the more serious tone in C."
+    },
+    {
+      "id": 2,
+      "category": "Mood",
+      "question": "Which one of these doesn't belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Marianito",
+          "artist": "Di Sarli",
+          "year": "1941",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_7d99875af95148ecbf0db5968e3f61ee.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Ensueños",
+          "artist": "Di Sarli",
+          "year": "1943",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_bebed3e1ffc541da9b95c842b2bffe9c.mp3"
+        },
+        {
+          "label": "C",
+          "song": "Bar Exposición",
+          "artist": "Di Sarli",
+          "year": "1943",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_076d151c70c34553a1f138f972449311.mp3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A has a brigther mood."
+    },
+    {
+      "id": 3,
+      "category": "Orchestra",
+      "question": "Which one of these doesn't belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Farol",
+          "artist": "Pugliese — Chanel, R.",
+          "year": "1943",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_5f375a43b78648058f3c137df9a88150.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Y Todavía Te Quiero",
+          "artist": "Pugliese — Maciel, J.",
+          "year": "1956",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_04c39da958484e1aad8cc90cf68b1060.mp3"
+        },
+        {
+          "label": "C",
+          "song": "Tabernero",
+          "artist": "Troilo — Fiorentino, F.",
+          "year": "1941",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_db69e09331c34fe79c307f2bb2c11e84.mp3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A & B were recorded by Pugliese. C was recorded by Troilo."
+    },
+    {
+      "id": 4,
+      "category": "Mood",
+      "question": "Which one of these doesn't belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "La vi llegar",
+          "artist": "Troilo — Marino, A.",
+          "year": "1944",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_5e77f0bb46d942ed82b503e006017e67.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Tinta Roja",
+          "artist": "Troilo — Fiorentino, F.",
+          "year": "1941",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_8f8c27f20afa413cb1d9b0628df3a150.mp3"
+        },
+        {
+          "label": "C",
+          "song": "Cristal",
+          "artist": "Troilo — Marino, A.",
+          "year": "1944",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_51ac331c0c8c499ab586385cefd539a0.mp3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "B is more rhythmic than the other two. A & C are quire serious."
     }
   ]
 }
