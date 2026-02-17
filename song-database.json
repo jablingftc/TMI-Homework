@@ -1,6 +1,6 @@
 {
-  "version": "10.0",
-  "lastUpdated": "2026-02-11",
+  "version": "11.0",
+  "lastUpdated": "2026-02-17",
   "songs": [
     {
       "title": "Por La Huella",
@@ -1459,7 +1459,7 @@
       "": ""
     },
     {
-      "title": "El abrojito",
+      "title": "El Abrojito",
       "artist": "Pugliese — Morán, A.",
       "year": "1945",
       "genre": "Tango - vocal",
@@ -1936,6 +1936,198 @@
       "year": "1945",
       "genre": "Tango - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_e31acca5ef7846188f1325cfe89c0d2a.mp3",
+      "": ""
+    },
+    {
+      "title": "De Pura Cepa",
+      "artist": "D'Arienzo",
+      "year": "1935",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e2b4295f000a4f869d6f83a61c08197b.mp3",
+      "": ""
+    },
+    {
+      "title": "La Punalada ('37)",
+      "artist": "D'Arienzo",
+      "year": "1937",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_677e57b71463468186f159d98721577a.mp3",
+      "": ""
+    },
+    {
+      "title": "La Espuela",
+      "artist": "D'Arienzo",
+      "year": "1946",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_8029252251ca4326abc9dc583921720a.mp3",
+      "": ""
+    },
+    {
+      "title": "El Esquinazo",
+      "artist": "D'Arienzo",
+      "year": "1938",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_da6c600b535445eb8ed4591029b72915.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga vieja milonga",
+      "artist": "D'Arienzo",
+      "year": "1937",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7ed021b305e24a0da19c649f448c86eb.mp3",
+      "": ""
+    },
+    {
+      "title": "La Punalada ('43)",
+      "artist": "D'Arienzo",
+      "year": "1943",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_232e17ef45964afa8be2c47d6aa88aaf.mp3",
+      "": ""
+    },
+    {
+      "title": "De Antaño",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cb67722f134242b1bd5133b7e02ccc68.mp3",
+      "": ""
+    },
+    {
+      "title": "La Cicatriz",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_fb7697571f174735a9e3f9450e133f82.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga Del Corazón",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1938",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_38f565119c04424e81f13a1a14af5de4.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga Querida",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1938",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_36f95c42720c4a41bf61b5977a887992.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga del Recuerdo",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_ebf898d33338459390a0ea31dd6e7dee.mp3",
+      "": ""
+    },
+    {
+      "title": "Carnavalera",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_26e2775d8ef94be88eed5a41a6087bbd.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga Del Ochenta y Tres",
+      "artist": "D'Arienzo — Reynal, A.",
+      "year": "1940",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6eebb1a43701457cbd04edea2569512c.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga Del Centenario",
+      "artist": "Di Sarli — Lesende, R.",
+      "year": "1940",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cf94d1f6560f42cfb7ad8aa0fde9d8c7.mp3",
+      "": ""
+    },
+    {
+      "title": "Entre Pitada Y Pitada",
+      "artist": "Di Sarli — Podestá, A.",
+      "year": "1942",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6a059b9d0512460da991bffc4b6b9377.mp3",
+      "": ""
+    },
+    {
+      "title": "Pena Mulata",
+      "artist": "Di Sarli — Rufino, R.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cdb43bc9373c44f18ede18da60a0c6f0.mp3",
+      "": ""
+    },
+    {
+      "title": "Zorzal",
+      "artist": "Di Sarli — Rufino, R.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_dc7cff1d291f4068b371db310290fd88.mp3",
+      "": ""
+    },
+    {
+      "title": "Yo Soy De San Telmo",
+      "artist": "Di Sarli — Rufino, R.",
+      "year": "1943",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6180c8b1d0fb47a199c7d1cb6210cca6.mp3",
+      "": ""
+    },
+    {
+      "title": "Ficha de oro",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1942",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_829fbba10a514fc4ba0097dab065a59e.mp3",
+      "": ""
+    },
+    {
+      "title": "Mano Brava",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cd2e43a7629e490f8e5b43a313244771.mp3",
+      "": ""
+    },
+    {
+      "title": "Con Toda La Voz Que Tengo",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_5276b6a6f31f44789fdbdb6539a5eb21.mp3",
+      "": ""
+    },
+    {
+      "title": "Con permiso",
+      "artist": "Troilo — Marino, A.",
+      "year": "1944",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_0c5edf249a634863996f5841c317736c.mp3",
+      "": ""
+    },
+    {
+      "title": "El Barrio Del Tambor",
+      "artist": "Troilo — Marino, A.",
+      "year": "1943",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_de3c3226649f4d66830f45e5d3481ea7.mp3",
+      "": ""
+    },
+    {
+      "title": "La Mulateada",
+      "artist": "Di Sarli — Rufino, R.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_defc1b76a10c404d9f1ea1aa90f8dd2d.mp3",
       "": ""
     }
   ]
