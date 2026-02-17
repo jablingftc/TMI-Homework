@@ -98,41 +98,239 @@
           "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_db69e09331c34fe79c307f2bb2c11e84.mp3"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": "A & B were recorded by Pugliese. C was recorded by Troilo."
     },
     {
       "id": 4,
+      "category": "Singer",
+      "question": "Which one of these doesn't belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Sobre el pucho",
+          "artist": "D'Arienzo — Mauré, H.",
+          "year": "1941",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_181c4ff981294e20863ab5fde0b10069.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Adios Corazon",
+          "artist": "D'Arienzo — Valdez, J.",
+          "year": "1958",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_d68d09cf7b2e4be685550e05dc384795.mp3"
+        },
+        {
+          "label": "C",
+          "song": "Amárras",
+          "artist": "D'Arienzo — Mauré, H.",
+          "year": "1944",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_342d27f35cc84bab8caf4f4fe03efcb1.mp3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "B was sung by Valdez. A & C were sung by Mauré."
+    },
+    {
+      "id": 5,
+      "category": "Era",
+      "question": "Which one of these doesn't belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "El Remate",
+          "artist": "Pugliese",
+          "year": "1944",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_e2102c59a13f4be6b0ea40a1f14d827e.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Cachirulo",
+          "artist": "Troilo",
+          "year": "1941",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_4ddd1a5bfa1549569677276596e066a4.mp3"
+        },
+        {
+          "label": "C",
+          "song": "El Retirao",
+          "artist": "Di Sarli",
+          "year": "1939",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_00ef4bf06c6e4d3db7cf48cc198d9ee4.mp3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A was recorded later than the other two. It also has a more serious tone than the others. The music gives you more opportunities to slow down compared to B & C."
+    },
+    {
+      "id": 6,
       "category": "Mood",
       "question": "Which one of these doesn't belong?",
       "options": [
         {
           "label": "A",
-          "song": "La vi llegar",
-          "artist": "Troilo — Marino, A.",
-          "year": "1944",
+          "song": "Con todo Mi Corazon",
+          "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+          "year": "1946",
           "genre": "Tango - vocal",
-          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_5e77f0bb46d942ed82b503e006017e67.mp3"
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_96ab05800e794eeeb5f007b216291c4f.mp3"
         },
         {
           "label": "B",
-          "song": "Tinta Roja",
-          "artist": "Troilo — Fiorentino, F.",
-          "year": "1941",
+          "song": "Amárras",
+          "artist": "D'Arienzo — Mauré, H.",
+          "year": "1944",
           "genre": "Tango - vocal",
-          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_8f8c27f20afa413cb1d9b0628df3a150.mp3"
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_342d27f35cc84bab8caf4f4fe03efcb1.mp3"
         },
         {
           "label": "C",
-          "song": "Cristal",
-          "artist": "Troilo — Marino, A.",
-          "year": "1944",
+          "song": "El Penado 14",
+          "artist": "D'Arienzo — Echague, A.",
+          "year": "1947",
           "genre": "Tango - vocal",
-          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_51ac331c0c8c499ab586385cefd539a0.mp3"
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_b7b8110f922c4302b96151ee0c3395e1.mp3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "B has lighter mood. It feels more romantic than the other two. It was also sung by Mauré. B & C were sung by Echague."
+    },
+    {
+      "id": 7,
+      "category": "Era",
+      "question": "Which one of these doesn't belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Tinta Verde ('54)",
+          "artist": "Di Sarli",
+          "year": "1954",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_45619511385b40eb94cf7ead00f31304.mp3"
+        },
+        {
+          "label": "B",
+          "song": "El Choclo ('54)",
+          "artist": "Di Sarli",
+          "year": "1954",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_01b7fac805ce4ecc8e1fffad9ac9b190.mp3"
+        },
+        {
+          "label": "C",
+          "song": "No Cantes Victoria",
+          "artist": "Di Sarli",
+          "year": "1930",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_c13dd33030bb452396b4a68879ec05af.mp3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "C was recorded in 1930 while the first two were recorded in 1954. Di Sarli's Sexteto (first orchestra) was smaller with less violins. In the 50's you can hear the large size of his violin section. The beats are sharper in the 50's compared to his earlier recording."
+    },
+    {
+      "id": 8,
+      "category": "Mood",
+      "question": "Which one of these doesn't belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Pa' que bailen los Muchachos ('42)",
+          "artist": "Troilo — Fiorentino, F.",
+          "year": "1942",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_39627a3696054d58a85d5a6fd82228cd.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Pájaro ciego",
+          "artist": "Troilo — Fiorentino, F. y Mandarino, A.",
+          "year": "1941",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_fcefc7e1618443b58a66e456e0bc7564.mp3"
+        },
+        {
+          "label": "C",
+          "song": "Te aconsejo que me olvides",
+          "artist": "Troilo — Fiorentino, F.",
+          "year": "1941",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_8c27788200a1468b819a3fd119b6952a.mp3"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "B is more rhythmic than the other two. A & C are quire serious."
+      "explanation": "A is more serious and dramatic compared to the other two. B & C are more rhythmic. A provides more opportunities for suspension than B or C."
+    },
+    {
+      "id": 9,
+      "category": "Mood",
+      "question": "Which one of these doesn't belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Que Noche (’37)",
+          "artist": "D'Arienzo",
+          "year": "1937",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_3545b678d5d74f0ba6fd8ae6a9f119da.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Yapeyu",
+          "artist": "D'Arienzo",
+          "year": "1951",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_c672e93c073445188be7b619d2b3b28b.mp3"
+        },
+        {
+          "label": "C",
+          "song": "El Flete",
+          "artist": "D'Arienzo",
+          "year": "1936",
+          "genre": "Tango - instrumental",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_b41c4440d0104f8ca14e925f806939d8.mp3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "B is more driving and serious than the other two. It was also recorded later which is why the tone has more gravity/angst compared to the rest."
+    },
+    {
+      "id": 10,
+      "category": "Mood",
+      "question": "Which one of these doesn't belong?",
+      "options": [
+        {
+          "label": "A",
+          "song": "Tres Amigos",
+          "artist": "Troilo — Marino, A.",
+          "year": "1944",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_b0b74a8be54741f2871198d66aa16751.mp3"
+        },
+        {
+          "label": "B",
+          "song": "Tabernero",
+          "artist": "Troilo — Fiorentino, F.",
+          "year": "1941",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_db69e09331c34fe79c307f2bb2c11e84.mp3"
+        },
+        {
+          "label": "C",
+          "song": "Maria",
+          "artist": "Troilo — Marino, A.",
+          "year": "1945",
+          "genre": "Tango - vocal",
+          "audioUrl": "https://static.wixstatic.com/mp3/22cbfd_61a5fef84b7042e7808cbb2f232e3290.mp3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A & C are romantic-dramatic songs. Although B has romantic moments, it's not as dramatic sounding as the others. Also, B was sung by Fiorentino. A & B were sung by Marino."
     }
   ]
 }
