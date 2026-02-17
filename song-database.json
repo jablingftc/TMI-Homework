@@ -1,21 +1,77 @@
 {
-  "version": "11.0",
+  "version": "11.5",
   "lastUpdated": "2026-02-17",
   "songs": [
+    {
+      "title": "Milonga vieja Milonga",
+      "artist": "D'Arienzo",
+      "year": "1937",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7ed021b305e24a0da19c649f448c86eb.mp3",
+      "": ""
+    },
+    {
+      "title": "La Punalada ('43)",
+      "artist": "D'Arienzo",
+      "year": "1943",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_232e17ef45964afa8be2c47d6aa88aaf.mp3",
+      "": ""
+    },
+    {
+      "title": "De Pura Cepa",
+      "artist": "D'Arienzo",
+      "year": "1935",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e2b4295f000a4f869d6f83a61c08197b.mp3",
+      "": ""
+    },
+    {
+      "title": "La Punalada ('37)",
+      "artist": "D'Arienzo",
+      "year": "1937",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_677e57b71463468186f159d98721577a.mp3",
+      "": ""
+    },
+    {
+      "title": "La Espuela",
+      "artist": "D'Arienzo",
+      "year": "1946",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_8029252251ca4326abc9dc583921720a.mp3",
+      "": ""
+    },
+    {
+      "title": "El Esquinazo",
+      "artist": "D'Arienzo",
+      "year": "1938",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_da6c600b535445eb8ed4591029b72915.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga vieja milonga",
+      "artist": "D'Arienzo",
+      "year": "1937",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7ed021b305e24a0da19c649f448c86eb.mp3",
+      "": ""
+    },
+    {
+      "title": "La Punalada ('43)",
+      "artist": "D'Arienzo",
+      "year": "1943",
+      "genre": "Milonga - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_232e17ef45964afa8be2c47d6aa88aaf.mp3",
+      "": ""
+    },
     {
       "title": "Por La Huella",
       "artist": "Biagi — Saavedra",
       "year": "1948",
       "genre": "Milonga - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_bb1ab53358df45e0b23ffdc0842f4473.mp3",
-      "": ""
-    },
-    {
-      "title": "La Zandunga",
-      "artist": "Canaro — Amor",
-      "year": "1939",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7702a3d2b1c341ec8b7cab287859d65a.mp3",
       "": ""
     },
     {
@@ -40,6 +96,206 @@
       "year": "1943",
       "genre": "Milonga - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_7a0ce79682844665a534947f55f98d23.mp3",
+      "": ""
+    },
+    {
+      "title": "La milonga que hacia falta",
+      "artist": "Donato — Lagos",
+      "year": "1938",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_19a656ce84f9428caa7eff43d5fab59d.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga de los Florntines",
+      "artist": "O.T. Victor — Balcarce",
+      "year": "1937",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_df9ba45479af47daa3517b0f6d5de4fc.mp3",
+      "": ""
+    },
+    {
+      "title": "Yo Me Llamo Juan Te Quiero",
+      "artist": "Canaro — Fama, E.",
+      "year": "1934",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_138121a6b4264eadaafe8e090e3747dd.mp3",
+      "": ""
+    },
+    {
+      "title": "Silueta Porteña",
+      "artist": "Canaro — Maida, R.",
+      "year": "1936",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_785f005af1bb4813b45f59e0f1e1bf9c.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga Querida",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1938",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_36f95c42720c4a41bf61b5977a887992.mp3",
+      "": ""
+    },
+    {
+      "title": "La Mulateada",
+      "artist": "Di Sarli — Rufino, R.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_defc1b76a10c404d9f1ea1aa90f8dd2d.mp3",
+      "": ""
+    },
+    {
+      "title": "Porteña Linda",
+      "artist": "Donato — Lagos, H.",
+      "year": "1940",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_c693ba6f2ef643088792459f4f0bab24.mp3",
+      "": ""
+    },
+    {
+      "title": "De Antaño",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cb67722f134242b1bd5133b7e02ccc68.mp3",
+      "": ""
+    },
+    {
+      "title": "La Cicatriz",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_fb7697571f174735a9e3f9450e133f82.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga Del Corazón",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1938",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_38f565119c04424e81f13a1a14af5de4.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga Querida",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1938",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_36f95c42720c4a41bf61b5977a887992.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga del Recuerdo",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_ebf898d33338459390a0ea31dd6e7dee.mp3",
+      "": ""
+    },
+    {
+      "title": "Carnavalera",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_26e2775d8ef94be88eed5a41a6087bbd.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga Del Ochenta y Tres",
+      "artist": "D'Arienzo — Reynal, A.",
+      "year": "1940",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6eebb1a43701457cbd04edea2569512c.mp3",
+      "": ""
+    },
+    {
+      "title": "Milonga Del Centenario",
+      "artist": "Di Sarli — Lesende, R.",
+      "year": "1940",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cf94d1f6560f42cfb7ad8aa0fde9d8c7.mp3",
+      "": ""
+    },
+    {
+      "title": "Entre Pitada Y Pitada",
+      "artist": "Di Sarli — Podestá, A.",
+      "year": "1942",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6a059b9d0512460da991bffc4b6b9377.mp3",
+      "": ""
+    },
+    {
+      "title": "Pena Mulata",
+      "artist": "Di Sarli — Rufino, R.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cdb43bc9373c44f18ede18da60a0c6f0.mp3",
+      "": ""
+    },
+    {
+      "title": "Zorzal",
+      "artist": "Di Sarli — Rufino, R.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_dc7cff1d291f4068b371db310290fd88.mp3",
+      "": ""
+    },
+    {
+      "title": "Yo Soy De San Telmo",
+      "artist": "Di Sarli — Rufino, R.",
+      "year": "1943",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6180c8b1d0fb47a199c7d1cb6210cca6.mp3",
+      "": ""
+    },
+    {
+      "title": "Ficha de oro",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1942",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_829fbba10a514fc4ba0097dab065a59e.mp3",
+      "": ""
+    },
+    {
+      "title": "Mano Brava",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cd2e43a7629e490f8e5b43a313244771.mp3",
+      "": ""
+    },
+    {
+      "title": "Con Toda La Voz Que Tengo",
+      "artist": "Troilo — Fiorentino, F.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_5276b6a6f31f44789fdbdb6539a5eb21.mp3",
+      "": ""
+    },
+    {
+      "title": "Con permiso",
+      "artist": "Troilo — Marino, A.",
+      "year": "1944",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_0c5edf249a634863996f5841c317736c.mp3",
+      "": ""
+    },
+    {
+      "title": "El Barrio Del Tambor",
+      "artist": "Troilo — Marino, A.",
+      "year": "1943",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_de3c3226649f4d66830f45e5d3481ea7.mp3",
+      "": ""
+    },
+    {
+      "title": "La Mulateada",
+      "artist": "Di Sarli — Rufino, R.",
+      "year": "1941",
+      "genre": "Milonga - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_defc1b76a10c404d9f1ea1aa90f8dd2d.mp3",
       "": ""
     },
     {
@@ -256,278 +512,6 @@
       "year": "1939",
       "genre": "Tango - instrumental",
       "url": "https://static.wixstatic.com/mp3/22cbfd_98010fb7bb3e4e83b24e5b53517cab34.mp3",
-      "": ""
-    },
-    {
-      "title": "Paciencia ('37)",
-      "artist": "D'Arienzo — Carbel, E.",
-      "year": "1937",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_2724eaca31ba4d1aad0ed711e8dc4838.mp3",
-      "": ""
-    },
-    {
-      "title": "Canchero",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1945",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_b353d6f704bd476786b261956437c464.mp3",
-      "": ""
-    },
-    {
-      "title": "Mandria",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1939",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_08a0bc4c86e24101b2177172ad39b60e.mp3",
-      "": ""
-    },
-    {
-      "title": "Nada Mas ('38)",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1938",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_f493a9a4c36842629d8af496dd14949f.mp3",
-      "": ""
-    },
-    {
-      "title": "No mientas",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1938",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_2a66bc71b3d447d694b7f91edb99db76.mp3",
-      "": ""
-    },
-    {
-      "title": "Olvidame",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1939",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_4cfe38e7409c4d90a839deed31073882.mp3",
-      "": ""
-    },
-    {
-      "title": "Pensalo Bien",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1938",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_cc94dbf75b1a4681be855ceba92e065c.mp3",
-      "": ""
-    },
-    {
-      "title": "Santa Milonguita",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1939",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_a57364a051924d33a74dd5ffb8ff2612.mp3",
-      "": ""
-    },
-    {
-      "title": "Trago Amargo ('39)",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1939",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_3d9fc0e2ee3040d8b14cffaadf71f84d.mp3",
-      "": ""
-    },
-    {
-      "title": "Yo No Espero Nada",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1945",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_4674c6815a0c4aa2b1cbdc209783598e.mp3",
-      "": ""
-    },
-    {
-      "title": "Con todo Mi Corazon",
-      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
-      "year": "1946",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_96ab05800e794eeeb5f007b216291c4f.mp3",
-      "": ""
-    },
-    {
-      "title": "El Penado 14",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1947",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_b7b8110f922c4302b96151ee0c3395e1.mp3",
-      "": ""
-    },
-    {
-      "title": "No Nos Veremos Nunca",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1944",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_f1c25267bb014a55aafca79104649898.mp3",
-      "": ""
-    },
-    {
-      "title": "Te Espero En Rodriguez Peña",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1946",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_f195d414c72846fda033eb2e5f7d5ea4.mp3",
-      "": ""
-    },
-    {
-      "title": "Ya Estamos Iguales",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1945",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_c42295a841eb4d8293d3fd9ef455849b.mp3",
-      "": ""
-    },
-    {
-      "title": "Amárras",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1944",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_342d27f35cc84bab8caf4f4fe03efcb1.mp3",
-      "": ""
-    },
-    {
-      "title": "Dime Mi Amor",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1941",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_da386ed4b56b4235a188d7f07225b845.mp3",
-      "": ""
-    },
-    {
-      "title": "Humillación",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1941",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_a8a793edb1c84305bfb17f6ee7f8c393.mp3",
-      "": ""
-    },
-    {
-      "title": "Judas",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1942",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_1cc6c2206373469298528b3860bc6e4d.mp3",
-      "": ""
-    },
-    {
-      "title": "Lilian",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1944",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_6e52d82d1a9e40a0985de35c9cc140d8.mp3",
-      "": ""
-    },
-    {
-      "title": "Metido",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1943",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_60fcb3b22abc44eea8cfb308b876e2ce.mp3",
-      "": ""
-    },
-    {
-      "title": "Si la llegaran a ver",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1943",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_e348fd19c8744a1295dd4dd6f83ca959.mp3",
-      "": ""
-    },
-    {
-      "title": "Sobre el pucho",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1941",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_181c4ff981294e20863ab5fde0b10069.mp3",
-      "": ""
-    },
-    {
-      "title": "Tango Brujo",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1943",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_db4fdaa5645742fcad55afcfb4a0801e.mp3",
-      "": ""
-    },
-    {
-      "title": "Tierrita",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1941",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_4ea0fd307e6c4e3e839c3df356714e6d.mp3",
-      "": ""
-    },
-    {
-      "title": "Uno",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1943",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_9c84054b761f49a3bb32ea5e7c2e0024.mp3",
-      "": ""
-    },
-    {
-      "title": "Ya Lo Ves",
-      "artist": "D'Arienzo — Mauré, H.",
-      "year": "1941",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_2948f4bbb4634cf4a0a3916724982190.mp3",
-      "": ""
-    },
-    {
-      "title": "Adios Corazon",
-      "artist": "D'Arienzo — Valdez, J.",
-      "year": "1958",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_d68d09cf7b2e4be685550e05dc384795.mp3",
-      "": ""
-    },
-    {
-      "title": "Castigo y pasion",
-      "artist": "D'Arienzo — Valdez, J.",
-      "year": "1957",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_ee7cb7e67cb5432cb49f7e6bc069f1e4.mp3",
-      "": ""
-    },
-    {
-      "title": "El ultimo cafe",
-      "artist": "D'Arienzo — Valdez, J.",
-      "year": "1964",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_9ec5dcfdb1964c20b4df234356d91167.mp3",
-      "": ""
-    },
-    {
-      "title": "Hasta Siempre Amor",
-      "artist": "D'Arienzo — Valdez, J.",
-      "year": "1958",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_767dc2e21bd94fa6b6edf8e23fac8317.mp3",
-      "": ""
-    },
-    {
-      "title": "Mi Amor Y Tu Amor",
-      "artist": "D'Arienzo — Valdez, J.",
-      "year": "1957",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_13a86289738644abbaf7f2bf334dc6fc.mp3",
-      "": ""
-    },
-    {
-      "title": "Muchachita De Paris",
-      "artist": "D'Arienzo — Valdez, J.",
-      "year": "1958",
-      "genre": "Tango - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_2fe92a3caa564aafb5f962dfed5fe858.mp3",
-      "": ""
-    },
-    {
-      "title": "No Vuelvas María",
-      "artist": "De Angelis — Dante y Martel",
-      "year": "1950",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_20d478271c634ce38b14105b906ad606.mp3",
       "": ""
     },
     {
@@ -816,6 +800,558 @@
       "year": "1931",
       "genre": "Tango - instrumental",
       "url": "https://static.wixstatic.com/mp3/22cbfd_6a01823a8ab8410f8ab0e2020f5434bc.mp3",
+      "": ""
+    },
+    {
+      "title": "Amurado",
+      "artist": "Pugliese",
+      "year": "1944",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_1d60afa612124a2eb6bdedaa9a9e5d6b.mp3",
+      "": ""
+    },
+    {
+      "title": "Chique",
+      "artist": "Pugliese",
+      "year": "1953",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e204eecccacd40f4b44646c815065d80.mp3",
+      "": ""
+    },
+    {
+      "title": "De Floreo",
+      "artist": "Pugliese",
+      "year": "1950",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f0283bf34ecc4ddfa4d3f896314c9411.mp3",
+      "": ""
+    },
+    {
+      "title": "Derecho Viejo",
+      "artist": "Pugliese",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_60cc6258d14049008653169078ad72ef.mp3",
+      "": ""
+    },
+    {
+      "title": "El Arranque",
+      "artist": "Pugliese",
+      "year": "1944",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_85925f970580478e9e96918ecb481c59.mp3",
+      "": ""
+    },
+    {
+      "title": "El Buscapie",
+      "artist": "Pugliese",
+      "year": "1947",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_47e9ad7c39af418d8f5e9333e2ba005f.mp3",
+      "": ""
+    },
+    {
+      "title": "El Monito",
+      "artist": "Pugliese",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e3f98ae42efd4652a57049c129dbe0f3.mp3",
+      "": ""
+    },
+    {
+      "title": "El Paladin",
+      "artist": "Pugliese",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_022e465a881e4c06bac8eb73c45a4771.mp3",
+      "": ""
+    },
+    {
+      "title": "El Remate",
+      "artist": "Pugliese",
+      "year": "1944",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e2102c59a13f4be6b0ea40a1f14d827e.mp3",
+      "": ""
+    },
+    {
+      "title": "Emancipacion",
+      "artist": "Pugliese",
+      "year": "1955",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_d3b04c5ab469419989a11bf6797c0d36.mp3",
+      "": ""
+    },
+    {
+      "title": "Flor De Tango",
+      "artist": "Pugliese",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_d3b04c5ab469419989a11bf6797c0d36.mp3",
+      "": ""
+    },
+    {
+      "title": "Gallo Ciego",
+      "artist": "Pugliese",
+      "year": "1959",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_a408dd84ac4f4e63b0a68624b481d96f.mp3",
+      "": ""
+    },
+    {
+      "title": "La Bordona",
+      "artist": "Pugliese",
+      "year": "1958",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4a42fccc40dd43dc94466389bfaaa5fd.mp3",
+      "": ""
+    },
+    {
+      "title": "La Cachila",
+      "artist": "Pugliese",
+      "year": "1952",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_1661e094bafc4c6299311e308e98e3c8.mp3",
+      "": ""
+    },
+    {
+      "title": "La Tupungatina",
+      "artist": "Pugliese",
+      "year": "1952",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6471e06e460d45efb55a0164debd72b2.mp3",
+      "": ""
+    },
+    {
+      "title": "La Yumba",
+      "artist": "Pugliese",
+      "year": "1952",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_183dd8c988274c9b959edab5d96bca35.mp3",
+      "": ""
+    },
+    {
+      "title": "Las Marionetas",
+      "artist": "Pugliese",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_951fa77df1904110be7bad4ab70aedbd.mp3",
+      "": ""
+    },
+    {
+      "title": "Mala Junta",
+      "artist": "Pugliese",
+      "year": "1943",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_58ec0cb0991d43deac691a31c138428b.mp3",
+      "": ""
+    },
+    {
+      "title": "Malandraca",
+      "artist": "Pugliese",
+      "year": "1949",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e4c4d5fae81a4715a643b15803f1e5fc.mp3",
+      "": ""
+    },
+    {
+      "title": "Marrón Y Azul",
+      "artist": "Pugliese",
+      "year": "1956",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_753383e8f48c434db29fe13596a8e744.mp3",
+      "": ""
+    },
+    {
+      "title": "N.N.",
+      "artist": "Pugliese",
+      "year": "1947",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_a7d2616066e14bb6a95878b1e9ec9df9.mp3",
+      "": ""
+    },
+    {
+      "title": "Negracha",
+      "artist": "Pugliese",
+      "year": "1948",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f0da319d0009480fb5a44d2c091ef090.mp3",
+      "": ""
+    },
+    {
+      "title": "Nochero Soy",
+      "artist": "Pugliese",
+      "year": "1956",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_0e0c2fec31a74c07af8ca13006f830f5.mp3",
+      "": ""
+    },
+    {
+      "title": "Para Dos",
+      "artist": "Pugliese",
+      "year": "1952",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_993cac365b2f4ca0ab3b2d0351ef92b3.mp3",
+      "": ""
+    },
+    {
+      "title": "Pata Ancha",
+      "artist": "Pugliese",
+      "year": "1957",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_705cee5570b2498ea4fe894c5b27002a.mp3",
+      "": ""
+    },
+    {
+      "title": "Patetico",
+      "artist": "Pugliese",
+      "year": "1948",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7bec28bd2f1649e5a94e6789ffdbd03d.mp3",
+      "": ""
+    },
+    {
+      "title": "Raza Criolla",
+      "artist": "Pugliese",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e927fab75dd643cd804de5ad4ca92778.mp3",
+      "": ""
+    },
+    {
+      "title": "Recuerdo ('45)",
+      "artist": "Pugliese",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6f58610a7c6c427f8360f32c86366dac.mp3",
+      "": ""
+    },
+    {
+      "title": "Seguíme Si Podés",
+      "artist": "Pugliese",
+      "year": "1953",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_a4d6525b9b4d4a379351c5e20c496b80.mp3",
+      "": ""
+    },
+    {
+      "title": "Tiny",
+      "artist": "Pugliese",
+      "year": "1945",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_0d2c424c6ee74159aebb589176fb445d.mp3",
+      "": ""
+    },
+    {
+      "title": "C.T.V.",
+      "artist": "Troilo",
+      "year": "1942",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7a9e61ccf9444d5ca7f22bb161f86653.mp3",
+      "": ""
+    },
+    {
+      "title": "Cachirulo",
+      "artist": "Troilo",
+      "year": "1941",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4ddd1a5bfa1549569677276596e066a4.mp3",
+      "": ""
+    },
+    {
+      "title": "Cordon de Oro",
+      "artist": "Troilo",
+      "year": "1941",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_1d48cd4331994ad6b88d78d7a9643fad.mp3",
+      "": ""
+    },
+    {
+      "title": "El Tamango",
+      "artist": "Troilo",
+      "year": "1941",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e0755a8f759a4690b446545dd8633f5f.mp3",
+      "": ""
+    },
+    {
+      "title": "Guapeando",
+      "artist": "Troilo",
+      "year": "1941",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_3fd4f419e8e54a0d8d8fdae8d184ae64.mp3",
+      "": ""
+    },
+    {
+      "title": "Milongueando En el 40",
+      "artist": "Troilo",
+      "year": "1941",
+      "genre": "Tango - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_c573f0a9d1c2424196761d5f87d13b8f.mp3",
+      "": ""
+    },
+    {
+      "title": "Paciencia ('37)",
+      "artist": "D'Arienzo — Carbel, E.",
+      "year": "1937",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_2724eaca31ba4d1aad0ed711e8dc4838.mp3",
+      "": ""
+    },
+    {
+      "title": "Canchero",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b353d6f704bd476786b261956437c464.mp3",
+      "": ""
+    },
+    {
+      "title": "Mandria",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_08a0bc4c86e24101b2177172ad39b60e.mp3",
+      "": ""
+    },
+    {
+      "title": "Nada Mas ('38)",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1938",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f493a9a4c36842629d8af496dd14949f.mp3",
+      "": ""
+    },
+    {
+      "title": "No mientas",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1938",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_2a66bc71b3d447d694b7f91edb99db76.mp3",
+      "": ""
+    },
+    {
+      "title": "Olvidame",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4cfe38e7409c4d90a839deed31073882.mp3",
+      "": ""
+    },
+    {
+      "title": "Pensalo Bien",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1938",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cc94dbf75b1a4681be855ceba92e065c.mp3",
+      "": ""
+    },
+    {
+      "title": "Santa Milonguita",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_a57364a051924d33a74dd5ffb8ff2612.mp3",
+      "": ""
+    },
+    {
+      "title": "Trago Amargo ('39)",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1939",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_3d9fc0e2ee3040d8b14cffaadf71f84d.mp3",
+      "": ""
+    },
+    {
+      "title": "Yo No Espero Nada",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4674c6815a0c4aa2b1cbdc209783598e.mp3",
+      "": ""
+    },
+    {
+      "title": "Con todo Mi Corazon",
+      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "year": "1946",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_96ab05800e794eeeb5f007b216291c4f.mp3",
+      "": ""
+    },
+    {
+      "title": "El Penado 14",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1947",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b7b8110f922c4302b96151ee0c3395e1.mp3",
+      "": ""
+    },
+    {
+      "title": "No Nos Veremos Nunca",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f1c25267bb014a55aafca79104649898.mp3",
+      "": ""
+    },
+    {
+      "title": "Te Espero En Rodriguez Peña",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1946",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_f195d414c72846fda033eb2e5f7d5ea4.mp3",
+      "": ""
+    },
+    {
+      "title": "Ya Estamos Iguales",
+      "artist": "D'Arienzo — Echague, A.",
+      "year": "1945",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_c42295a841eb4d8293d3fd9ef455849b.mp3",
+      "": ""
+    },
+    {
+      "title": "Amárras",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_342d27f35cc84bab8caf4f4fe03efcb1.mp3",
+      "": ""
+    },
+    {
+      "title": "Dime Mi Amor",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_da386ed4b56b4235a188d7f07225b845.mp3",
+      "": ""
+    },
+    {
+      "title": "Humillación",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_a8a793edb1c84305bfb17f6ee7f8c393.mp3",
+      "": ""
+    },
+    {
+      "title": "Judas",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1942",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_1cc6c2206373469298528b3860bc6e4d.mp3",
+      "": ""
+    },
+    {
+      "title": "Lilian",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1944",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6e52d82d1a9e40a0985de35c9cc140d8.mp3",
+      "": ""
+    },
+    {
+      "title": "Metido",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1943",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_60fcb3b22abc44eea8cfb308b876e2ce.mp3",
+      "": ""
+    },
+    {
+      "title": "Si la llegaran a ver",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1943",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e348fd19c8744a1295dd4dd6f83ca959.mp3",
+      "": ""
+    },
+    {
+      "title": "Sobre el pucho",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_181c4ff981294e20863ab5fde0b10069.mp3",
+      "": ""
+    },
+    {
+      "title": "Tango Brujo",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1943",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_db4fdaa5645742fcad55afcfb4a0801e.mp3",
+      "": ""
+    },
+    {
+      "title": "Tierrita",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4ea0fd307e6c4e3e839c3df356714e6d.mp3",
+      "": ""
+    },
+    {
+      "title": "Uno",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1943",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_9c84054b761f49a3bb32ea5e7c2e0024.mp3",
+      "": ""
+    },
+    {
+      "title": "Ya Lo Ves",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_2948f4bbb4634cf4a0a3916724982190.mp3",
+      "": ""
+    },
+    {
+      "title": "Adios Corazon",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1958",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_d68d09cf7b2e4be685550e05dc384795.mp3",
+      "": ""
+    },
+    {
+      "title": "Castigo y pasion",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1957",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_ee7cb7e67cb5432cb49f7e6bc069f1e4.mp3",
+      "": ""
+    },
+    {
+      "title": "El ultimo cafe",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1964",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_9ec5dcfdb1964c20b4df234356d91167.mp3",
+      "": ""
+    },
+    {
+      "title": "Hasta Siempre Amor",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1958",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_767dc2e21bd94fa6b6edf8e23fac8317.mp3",
+      "": ""
+    },
+    {
+      "title": "Mi Amor Y Tu Amor",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1957",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_13a86289738644abbaf7f2bf334dc6fc.mp3",
+      "": ""
+    },
+    {
+      "title": "Muchachita De Paris",
+      "artist": "D'Arienzo — Valdez, J.",
+      "year": "1958",
+      "genre": "Tango - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_2fe92a3caa564aafb5f962dfed5fe858.mp3",
       "": ""
     },
     {
@@ -1123,262 +1659,6 @@
       "": ""
     },
     {
-      "title": "La milonga que hacia falta",
-      "artist": "Donato — Lagos",
-      "year": "1938",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_19a656ce84f9428caa7eff43d5fab59d.mp3",
-      "": ""
-    },
-    {
-      "title": "Milonga de los Florntines",
-      "artist": "O.T. Victor — Balcarce",
-      "year": "1937",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_df9ba45479af47daa3517b0f6d5de4fc.mp3",
-      "": ""
-    },
-    {
-      "title": "Amurado",
-      "artist": "Pugliese",
-      "year": "1944",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_1d60afa612124a2eb6bdedaa9a9e5d6b.mp3",
-      "": ""
-    },
-    {
-      "title": "Chique",
-      "artist": "Pugliese",
-      "year": "1953",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_e204eecccacd40f4b44646c815065d80.mp3",
-      "": ""
-    },
-    {
-      "title": "De Floreo",
-      "artist": "Pugliese",
-      "year": "1950",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_f0283bf34ecc4ddfa4d3f896314c9411.mp3",
-      "": ""
-    },
-    {
-      "title": "Derecho Viejo",
-      "artist": "Pugliese",
-      "year": "1945",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_60cc6258d14049008653169078ad72ef.mp3",
-      "": ""
-    },
-    {
-      "title": "El Arranque",
-      "artist": "Pugliese",
-      "year": "1944",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_85925f970580478e9e96918ecb481c59.mp3",
-      "": ""
-    },
-    {
-      "title": "El Buscapie",
-      "artist": "Pugliese",
-      "year": "1947",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_47e9ad7c39af418d8f5e9333e2ba005f.mp3",
-      "": ""
-    },
-    {
-      "title": "El Monito",
-      "artist": "Pugliese",
-      "year": "1945",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_e3f98ae42efd4652a57049c129dbe0f3.mp3",
-      "": ""
-    },
-    {
-      "title": "El Paladin",
-      "artist": "Pugliese",
-      "year": "1945",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_022e465a881e4c06bac8eb73c45a4771.mp3",
-      "": ""
-    },
-    {
-      "title": "El Remate",
-      "artist": "Pugliese",
-      "year": "1944",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_e2102c59a13f4be6b0ea40a1f14d827e.mp3",
-      "": ""
-    },
-    {
-      "title": "Emancipacion",
-      "artist": "Pugliese",
-      "year": "1955",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_d3b04c5ab469419989a11bf6797c0d36.mp3",
-      "": ""
-    },
-    {
-      "title": "Flor De Tango",
-      "artist": "Pugliese",
-      "year": "1945",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_d3b04c5ab469419989a11bf6797c0d36.mp3",
-      "": ""
-    },
-    {
-      "title": "Gallo Ciego",
-      "artist": "Pugliese",
-      "year": "1959",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_a408dd84ac4f4e63b0a68624b481d96f.mp3",
-      "": ""
-    },
-    {
-      "title": "La Bordona",
-      "artist": "Pugliese",
-      "year": "1958",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_4a42fccc40dd43dc94466389bfaaa5fd.mp3",
-      "": ""
-    },
-    {
-      "title": "La Cachila",
-      "artist": "Pugliese",
-      "year": "1952",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_1661e094bafc4c6299311e308e98e3c8.mp3",
-      "": ""
-    },
-    {
-      "title": "La Tupungatina",
-      "artist": "Pugliese",
-      "year": "1952",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_6471e06e460d45efb55a0164debd72b2.mp3",
-      "": ""
-    },
-    {
-      "title": "La Yumba",
-      "artist": "Pugliese",
-      "year": "1952",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_183dd8c988274c9b959edab5d96bca35.mp3",
-      "": ""
-    },
-    {
-      "title": "Las Marionetas",
-      "artist": "Pugliese",
-      "year": "1945",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_951fa77df1904110be7bad4ab70aedbd.mp3",
-      "": ""
-    },
-    {
-      "title": "Mala Junta",
-      "artist": "Pugliese",
-      "year": "1943",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_58ec0cb0991d43deac691a31c138428b.mp3",
-      "": ""
-    },
-    {
-      "title": "Malandraca",
-      "artist": "Pugliese",
-      "year": "1949",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_e4c4d5fae81a4715a643b15803f1e5fc.mp3",
-      "": ""
-    },
-    {
-      "title": "Marrón Y Azul",
-      "artist": "Pugliese",
-      "year": "1956",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_753383e8f48c434db29fe13596a8e744.mp3",
-      "": ""
-    },
-    {
-      "title": "N.N.",
-      "artist": "Pugliese",
-      "year": "1947",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_a7d2616066e14bb6a95878b1e9ec9df9.mp3",
-      "": ""
-    },
-    {
-      "title": "Negracha",
-      "artist": "Pugliese",
-      "year": "1948",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_f0da319d0009480fb5a44d2c091ef090.mp3",
-      "": ""
-    },
-    {
-      "title": "Nochero Soy",
-      "artist": "Pugliese",
-      "year": "1956",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_0e0c2fec31a74c07af8ca13006f830f5.mp3",
-      "": ""
-    },
-    {
-      "title": "Para Dos",
-      "artist": "Pugliese",
-      "year": "1952",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_993cac365b2f4ca0ab3b2d0351ef92b3.mp3",
-      "": ""
-    },
-    {
-      "title": "Pata Ancha",
-      "artist": "Pugliese",
-      "year": "1957",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_705cee5570b2498ea4fe894c5b27002a.mp3",
-      "": ""
-    },
-    {
-      "title": "Patetico",
-      "artist": "Pugliese",
-      "year": "1948",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7bec28bd2f1649e5a94e6789ffdbd03d.mp3",
-      "": ""
-    },
-    {
-      "title": "Raza Criolla",
-      "artist": "Pugliese",
-      "year": "1945",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_e927fab75dd643cd804de5ad4ca92778.mp3",
-      "": ""
-    },
-    {
-      "title": "Recuerdo ('45)",
-      "artist": "Pugliese",
-      "year": "1945",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_6f58610a7c6c427f8360f32c86366dac.mp3",
-      "": ""
-    },
-    {
-      "title": "Seguíme Si Podés",
-      "artist": "Pugliese",
-      "year": "1953",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_a4d6525b9b4d4a379351c5e20c496b80.mp3",
-      "": ""
-    },
-    {
-      "title": "Tiny",
-      "artist": "Pugliese",
-      "year": "1945",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_0d2c424c6ee74159aebb589176fb445d.mp3",
-      "": ""
-    },
-    {
       "title": "Corrientes Y Esmeralda",
       "artist": "Pugliese — Chanel, R.",
       "year": "1944",
@@ -1499,243 +1779,11 @@
       "": ""
     },
     {
-      "title": "Tu Vieja Venata",
-      "artist": "Tanturi — Campos y Videla",
-      "year": "1945",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7f3cf218f5ff4f41979c460530f1c446.mp3",
-      "": ""
-    },
-    {
-      "title": "Con Los Amigos",
-      "artist": "Tanturi — Castillo",
-      "year": "1943",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_fee0d70ddd924a75837761c901833378.mp3",
-      "": ""
-    },
-    {
-      "title": "Lagrimitias de Mi Corazon",
-      "artist": "Troilo — Rivero y Ruiz",
-      "year": "1948",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_2cfb580ab9314f2cb50012ea9d35c70c.mp3",
-      "": ""
-    },
-    {
-      "title": "El Vals Soñador",
-      "artist": "Calo — Beron, R.",
-      "year": "1942",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_76d579b0af5b4867a3fad743c63debb1.mp3",
-      "": ""
-    },
-    {
-      "title": "Bajo De Un Cielo De Estrellas",
-      "artist": "Calo — Podesta, A.",
-      "year": "1941",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_5230f2b574d64d27be5dab95b0504fcf.mp3",
-      "": ""
-    },
-    {
-      "title": "Mi Ambicion",
-      "artist": "De Angelis — Dante, C. y Larroca, O.",
-      "year": "1954",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_09343647068442b2829e17ec6c01c3de.mp3",
-      "": ""
-    },
-    {
-      "title": "Mi Cariñito",
-      "artist": "De Angelis — Dante, C. y Martel, J.",
-      "year": "1949",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_d156559d5cb445c1976cbe04a50b37ad.mp3",
-      "": ""
-    },
-    {
-      "title": "Caseron De Tejas",
-      "artist": "Laurenz — Del Campo, A.",
-      "year": "1942",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_fc5fff740448414786651682072be6aa.mp3",
-      "": ""
-    },
-    {
-      "title": "Maria Remedios",
-      "artist": "Laurenz — Fuentas, A.",
-      "year": "1942",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_5d44e00e71664a72a908861e25563158.mp3",
-      "": ""
-    },
-    {
-      "title": "Flores del alma",
-      "artist": "Laurenz — Podesta, M.",
-      "year": "1942",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_dce99b64e2074dec9ada3ccdfac264c7.mp3",
-      "": ""
-    },
-    {
-      "title": "Damisela encantadora",
-      "artist": "Lomuto — Omar, J.",
-      "year": "1936",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_95832a3e8a84404e8c3468e2777ddbd8.mp3",
-      "": ""
-    },
-    {
-      "title": "Noche de ronda",
-      "artist": "Lomuto",
-      "year": "1937",
-      "genre": "Vals - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_3228fe2e7eea4e80acad1f46f15f6a36.mp3",
-      "": ""
-    },
-    {
-      "title": "Isabelita",
-      "artist": "Rodriguez — Moreno, A.",
-      "year": "1940",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_fd9880ed12854cc1ab66d133a4e6f415.mp3",
-      "": ""
-    },
-    {
-      "title": "Llora Corazon",
-      "artist": "Rodriguez — Moreno, A.",
-      "year": "1945",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_8e20ff26d60f498c8da4bf8fd727a74c.mp3",
-      "": ""
-    },
-    {
-      "title": "Recuerdo",
-      "artist": "Tanturi — Castillo",
-      "year": "1941",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_8cd00f1c37a4484ea91afe74c885790d.mp3",
-      "": ""
-    },
-    {
-      "title": "Sonar y Nada Mas",
-      "artist": "Troilo — Fiorentino, F. & Marino, A.",
-      "year": "1943",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_fa460c97620a4bed8ff9815e706966c7.mp3",
-      "": ""
-    },
-    {
-      "title": "Flor de Lino",
-      "artist": "Troilo — Ruiz, F.",
-      "year": "1947",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7901cf6087bb478baaa38def2df59f5d.mp3",
-      "": ""
-    },
-    {
-      "title": "Lloraras Lloraras",
-      "artist": "Troilo — Ruiz, F.",
-      "year": "1945",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_93c17f06668547d498bdbc22b7214bc4.mp3",
-      "": ""
-    },
-    {
-      "title": "Yo Me Llamo Juan Te Quiero",
-      "artist": "Canaro — Fama, E.",
-      "year": "1934",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_138121a6b4264eadaafe8e090e3747dd.mp3",
-      "": ""
-    },
-    {
-      "title": "Silueta Porteña",
-      "artist": "Canaro — Maida, R.",
-      "year": "1936",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_785f005af1bb4813b45f59e0f1e1bf9c.mp3",
-      "": ""
-    },
-    {
-      "title": "Milonga vieja Milonga",
-      "artist": "D'Arienzo",
-      "year": "1937",
-      "genre": "Milonga - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7ed021b305e24a0da19c649f448c86eb.mp3",
-      "": ""
-    },
-    {
-      "title": "La Punalada ('43)",
-      "artist": "D'Arienzo",
-      "year": "1943",
-      "genre": "Milonga - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_232e17ef45964afa8be2c47d6aa88aaf.mp3",
-      "": ""
-    },
-    {
-      "title": "Milonga Querida",
-      "artist": "D'Arienzo — Echague, A.",
-      "year": "1938",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_36f95c42720c4a41bf61b5977a887992.mp3",
-      "": ""
-    },
-    {
-      "title": "La Mulateada",
-      "artist": "Di Sarli — Rufino, R.",
-      "year": "1941",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_defc1b76a10c404d9f1ea1aa90f8dd2d.mp3",
-      "": ""
-    },
-    {
-      "title": "Porteña Linda",
-      "artist": "Donato — Lagos, H.",
-      "year": "1940",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_c693ba6f2ef643088792459f4f0bab24.mp3",
-      "": ""
-    },
-    {
-      "title": "Cuando Estaba Enamorado",
-      "artist": "Canaro — Amor",
-      "year": "1940",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_0d2e40d16d774decbf2f0834ece0875a.mp3",
-      "": ""
-    },
-    {
-      "title": "C.T.V.",
-      "artist": "Troilo",
-      "year": "1942",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7a9e61ccf9444d5ca7f22bb161f86653.mp3",
-      "": ""
-    },
-    {
-      "title": "Cachirulo",
-      "artist": "Troilo",
-      "year": "1941",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_4ddd1a5bfa1549569677276596e066a4.mp3",
-      "": ""
-    },
-    {
       "title": "Confesion",
       "artist": "Troilo — Ruiz, F.",
       "year": "1947",
       "genre": "Tango - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_6196173035ca4baa8d46e7bad8de6618.mp3",
-      "": ""
-    },
-    {
-      "title": "Cordon de Oro",
-      "artist": "Troilo",
-      "year": "1941",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_1d48cd4331994ad6b88d78d7a9643fad.mp3",
       "": ""
     },
     {
@@ -1755,14 +1803,6 @@
       "": ""
     },
     {
-      "title": "El Tamango",
-      "artist": "Troilo",
-      "year": "1941",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_e0755a8f759a4690b446545dd8633f5f.mp3",
-      "": ""
-    },
-    {
       "title": "En Esta Tarde Gris",
       "artist": "Troilo — Fiorentino, F.",
       "year": "1941",
@@ -1776,14 +1816,6 @@
       "year": "1945",
       "genre": "Tango - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_53e24eabd0544745aefdd6fc3e03260e.mp3",
-      "": ""
-    },
-    {
-      "title": "Guapeando",
-      "artist": "Troilo",
-      "year": "1941",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_3fd4f419e8e54a0d8d8fdae8d184ae64.mp3",
       "": ""
     },
     {
@@ -1816,14 +1848,6 @@
       "year": "1945",
       "genre": "Tango - vocal",
       "url": "https://static.wixstatic.com/mp3/22cbfd_61a5fef84b7042e7808cbb2f232e3290.mp3",
-      "": ""
-    },
-    {
-      "title": "Milongueando En el 40",
-      "artist": "Troilo",
-      "year": "1941",
-      "genre": "Tango - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_c573f0a9d1c2424196761d5f87d13b8f.mp3",
       "": ""
     },
     {
@@ -1939,195 +1963,379 @@
       "": ""
     },
     {
-      "title": "De Pura Cepa",
-      "artist": "D'Arienzo",
-      "year": "1935",
-      "genre": "Milonga - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_e2b4295f000a4f869d6f83a61c08197b.mp3",
-      "": ""
-    },
-    {
-      "title": "La Punalada ('37)",
-      "artist": "D'Arienzo",
+      "title": "Noche de ronda",
+      "artist": "Lomuto",
       "year": "1937",
-      "genre": "Milonga - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_677e57b71463468186f159d98721577a.mp3",
+      "genre": "Vals - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_3228fe2e7eea4e80acad1f46f15f6a36.mp3",
       "": ""
     },
     {
-      "title": "La Espuela",
-      "artist": "D'Arienzo",
-      "year": "1946",
-      "genre": "Milonga - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_8029252251ca4326abc9dc583921720a.mp3",
+      "title": "La Zandunga",
+      "artist": "Canaro — Amor",
+      "year": "1939",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7702a3d2b1c341ec8b7cab287859d65a.mp3",
       "": ""
     },
     {
-      "title": "El Esquinazo",
-      "artist": "D'Arienzo",
-      "year": "1938",
-      "genre": "Milonga - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_da6c600b535445eb8ed4591029b72915.mp3",
+      "title": "No Vuelvas María",
+      "artist": "De Angelis — Dante y Martel",
+      "year": "1950",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_20d478271c634ce38b14105b906ad606.mp3",
       "": ""
     },
     {
-      "title": "Milonga vieja milonga",
-      "artist": "D'Arienzo",
-      "year": "1937",
-      "genre": "Milonga - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7ed021b305e24a0da19c649f448c86eb.mp3",
+      "title": "Tu Vieja Venata",
+      "artist": "Tanturi — Campos y Videla",
+      "year": "1945",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7f3cf218f5ff4f41979c460530f1c446.mp3",
       "": ""
     },
     {
-      "title": "La Punalada ('43)",
-      "artist": "D'Arienzo",
+      "title": "Con Los Amigos",
+      "artist": "Tanturi — Castillo",
       "year": "1943",
-      "genre": "Milonga - instrumental",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_232e17ef45964afa8be2c47d6aa88aaf.mp3",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_fee0d70ddd924a75837761c901833378.mp3",
       "": ""
     },
     {
-      "title": "De Antaño",
+      "title": "Lagrimitias de Mi Corazon",
+      "artist": "Troilo — Rivero y Ruiz",
+      "year": "1948",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_2cfb580ab9314f2cb50012ea9d35c70c.mp3",
+      "": ""
+    },
+    {
+      "title": "El Vals Soñador",
+      "artist": "Calo — Beron, R.",
+      "year": "1942",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_76d579b0af5b4867a3fad743c63debb1.mp3",
+      "": ""
+    },
+    {
+      "title": "Bajo De Un Cielo De Estrellas",
+      "artist": "Calo — Podesta, A.",
+      "year": "1941",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_5230f2b574d64d27be5dab95b0504fcf.mp3",
+      "": ""
+    },
+    {
+      "title": "Mi Ambicion",
+      "artist": "De Angelis — Dante, C. y Larroca, O.",
+      "year": "1954",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_09343647068442b2829e17ec6c01c3de.mp3",
+      "": ""
+    },
+    {
+      "title": "Mi Cariñito",
+      "artist": "De Angelis — Dante, C. y Martel, J.",
+      "year": "1949",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_d156559d5cb445c1976cbe04a50b37ad.mp3",
+      "": ""
+    },
+    {
+      "title": "Caseron De Tejas",
+      "artist": "Laurenz — Del Campo, A.",
+      "year": "1942",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_fc5fff740448414786651682072be6aa.mp3",
+      "": ""
+    },
+    {
+      "title": "Maria Remedios",
+      "artist": "Laurenz — Fuentas, A.",
+      "year": "1942",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_5d44e00e71664a72a908861e25563158.mp3",
+      "": ""
+    },
+    {
+      "title": "Flores del alma",
+      "artist": "Laurenz — Podesta, M.",
+      "year": "1942",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_dce99b64e2074dec9ada3ccdfac264c7.mp3",
+      "": ""
+    },
+    {
+      "title": "Damisela encantadora",
+      "artist": "Lomuto — Omar, J.",
+      "year": "1936",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_95832a3e8a84404e8c3468e2777ddbd8.mp3",
+      "": ""
+    },
+    {
+      "title": "Isabelita",
+      "artist": "Rodriguez — Moreno, A.",
+      "year": "1940",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_fd9880ed12854cc1ab66d133a4e6f415.mp3",
+      "": ""
+    },
+    {
+      "title": "Llora Corazon",
+      "artist": "Rodriguez — Moreno, A.",
+      "year": "1945",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_8e20ff26d60f498c8da4bf8fd727a74c.mp3",
+      "": ""
+    },
+    {
+      "title": "Recuerdo",
+      "artist": "Tanturi — Castillo",
+      "year": "1941",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_8cd00f1c37a4484ea91afe74c885790d.mp3",
+      "": ""
+    },
+    {
+      "title": "Sonar y Nada Mas",
+      "artist": "Troilo — Fiorentino, F. & Marino, A.",
+      "year": "1943",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_fa460c97620a4bed8ff9815e706966c7.mp3",
+      "": ""
+    },
+    {
+      "title": "Flor de Lino",
+      "artist": "Troilo — Ruiz, F.",
+      "year": "1947",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7901cf6087bb478baaa38def2df59f5d.mp3",
+      "": ""
+    },
+    {
+      "title": "Lloraras Lloraras",
+      "artist": "Troilo — Ruiz, F.",
+      "year": "1945",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_93c17f06668547d498bdbc22b7214bc4.mp3",
+      "": ""
+    },
+    {
+      "title": "Cuando Estaba Enamorado",
+      "artist": "Canaro — Amor",
+      "year": "1940",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_0d2e40d16d774decbf2f0834ece0875a.mp3",
+      "": ""
+    },
+    {
+      "title": "Palomita Blanca",
+      "artist": "Troilo — Marino, A. y Ruiz, F.",
+      "year": "1944",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7221ca03b2ec4673959c3238a8bece1a.mp3",
+      "": ""
+    },
+    {
+      "title": "Amor y Celos",
+      "artist": "D'Arienzo",
+      "year": "1936",
+      "genre": "Vals - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_e69075e64e0b459b878d7d28ab574061.mp3",
+      "": ""
+    },
+    {
+      "title": "Visión Celeste",
+      "artist": "D'Arienzo",
+      "year": "1936",
+      "genre": "Vals - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_afc35e68527f46498dae0f96e410f6d9.mp3",
+      "": ""
+    },
+    {
+      "title": "Mentias",
+      "artist": "D'Arienzo",
+      "year": "1937",
+      "genre": "Vals - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_c6ff5f4ffdf643b783bce79b9d65e8a4.mp3",
+      "": ""
+    },
+    {
+      "title": "El Aeroplano",
+      "artist": "D'Arienzo",
+      "year": "1938",
+      "genre": "Vals - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_17b704d952d44bd5b7e2962cae0c44e4.mp3",
+      "": ""
+    },
+    {
+      "title": "Alma Dolorida",
+      "artist": "D'Arienzo",
+      "year": "1937",
+      "genre": "Vals - instrumental",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_1a21038e55eb4f25852a9d55f2405f06.mp3",
+      "": ""
+    },
+    {
+      "title": "Castigo",
       "artist": "D'Arienzo — Echague, A.",
       "year": "1939",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_cb67722f134242b1bd5133b7e02ccc68.mp3",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_7061aa07ec8f47329cd30219516b9bb1.mp3",
       "": ""
     },
     {
-      "title": "La Cicatriz",
+      "title": "Ay Aurora",
       "artist": "D'Arienzo — Echague, A.",
       "year": "1939",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_fb7697571f174735a9e3f9450e133f82.mp3",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_5e49b3909f0747eab31c4416b7394a1a.mp3",
       "": ""
     },
     {
-      "title": "Milonga Del Corazón",
+      "title": "Recuerdos de la Pampa",
       "artist": "D'Arienzo — Echague, A.",
       "year": "1938",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_38f565119c04424e81f13a1a14af5de4.mp3",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_ec3828345ef94b568b00345b8852b370.mp3",
       "": ""
     },
     {
-      "title": "Milonga Querida",
+      "title": "Cabeza De Novia",
       "artist": "D'Arienzo — Echague, A.",
       "year": "1938",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_36f95c42720c4a41bf61b5977a887992.mp3",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_cce89fcb5892433fb1b707dfc723bc6b.mp3",
       "": ""
     },
     {
-      "title": "Milonga del Recuerdo",
+      "title": "En Tu Corazon",
       "artist": "D'Arienzo — Echague, A.",
-      "year": "1939",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_ebf898d33338459390a0ea31dd6e7dee.mp3",
+      "year": "1938",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_a0a1705278184ff8b1930323a2688961.mp3",
       "": ""
     },
     {
-      "title": "Carnavalera",
+      "title": "Por Que Tu Me Lo Pides",
+      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "year": "1955",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_92f286c9601e4eac9a7fa35e65ca691c.mp3",
+      "": ""
+    },
+    {
+      "title": "Eterna",
+      "artist": "D'Arienzo — Echague, A. (Lunfardo Years)",
+      "year": "1948",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b403232d7414420d9fecbf1d85b8c20f.mp3",
+      "": ""
+    },
+    {
+      "title": "Lo Mismo Que Ayer",
+      "artist": "D'Arienzo — Echague, A. y Laborde, A.",
+      "year": "1946",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_bcd6a8b993cd4932816536f724ae73b5.mp3",
+      "": ""
+    },
+    {
+      "title": "Tristeza Criolla",
+      "artist": "D'Arienzo — Laborde, A.",
+      "year": "1954",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_32df28398a7e4918ac97d260f8d83465.mp3",
+      "": ""
+    },
+    {
+      "title": "Desencanto",
+      "artist": "D'Arienzo — Lemos, R.",
+      "year": "1950",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_6ab05552220c4026b990beedc4399ac8.mp3",
+      "": ""
+    },
+    {
+      "title": "Adiós Querida",
       "artist": "D'Arienzo — Mauré, H.",
       "year": "1941",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_26e2775d8ef94be88eed5a41a6087bbd.mp3",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_bbea30414b5b40138d076185befb359d.mp3",
       "": ""
     },
     {
-      "title": "Milonga Del Ochenta y Tres",
+      "title": "Cuatro palabras",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_4c2cd11c6bae4e859f15e18399e5b182.mp3",
+      "": ""
+    },
+    {
+      "title": "Miedo",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1940",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_9fe72407593a4d79988d0f7ff32387dd.mp3",
+      "": ""
+    },
+    {
+      "title": "La Serenata de ayer",
+      "artist": "D'Arienzo — Mauré, H.",
+      "year": "1941",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_97480eb179484806894920c47a1479fe.mp3",
+      "": ""
+    },
+    {
+      "title": "A Una Mujer",
       "artist": "D'Arienzo — Reynal, A.",
       "year": "1940",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_6eebb1a43701457cbd04edea2569512c.mp3",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_05d2bafd9d244d628894a8d5e1256fdb.mp3",
       "": ""
     },
     {
-      "title": "Milonga Del Centenario",
-      "artist": "Di Sarli — Lesende, R.",
-      "year": "1940",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_cf94d1f6560f42cfb7ad8aa0fde9d8c7.mp3",
+      "title": "Acuerdate De Mi",
+      "artist": "Di Sarli — Durán, J.",
+      "year": "1946",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_c52c0524fe7e4529a041daa08ec49de2.mp3",
       "": ""
     },
     {
-      "title": "Entre Pitada Y Pitada",
+      "title": "Rosas De Otoño",
       "artist": "Di Sarli — Podestá, A.",
       "year": "1942",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_6a059b9d0512460da991bffc4b6b9377.mp3",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_b4dd7f0f37ce43ef8acfd00410572229.mp3",
       "": ""
     },
     {
-      "title": "Pena Mulata",
+      "title": "Cortando Caminos",
       "artist": "Di Sarli — Rufino, R.",
       "year": "1941",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_cdb43bc9373c44f18ede18da60a0c6f0.mp3",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_eae5566473d74489a90ff1d142279fec.mp3",
       "": ""
     },
     {
-      "title": "Zorzal",
+      "title": "Alma Mía",
       "artist": "Di Sarli — Rufino, R.",
-      "year": "1941",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_dc7cff1d291f4068b371db310290fd88.mp3",
+      "year": "1940",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_12ea8b58788e4836950e613431ce9cd4.mp3",
       "": ""
     },
     {
-      "title": "Yo Soy De San Telmo",
-      "artist": "Di Sarli — Rufino, R.",
-      "year": "1943",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_6180c8b1d0fb47a199c7d1cb6210cca6.mp3",
-      "": ""
-    },
-    {
-      "title": "Ficha de oro",
-      "artist": "Troilo — Fiorentino, F.",
-      "year": "1942",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_829fbba10a514fc4ba0097dab065a59e.mp3",
-      "": ""
-    },
-    {
-      "title": "Mano Brava",
-      "artist": "Troilo — Fiorentino, F.",
-      "year": "1941",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_cd2e43a7629e490f8e5b43a313244771.mp3",
-      "": ""
-    },
-    {
-      "title": "Con Toda La Voz Que Tengo",
-      "artist": "Troilo — Fiorentino, F.",
-      "year": "1941",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_5276b6a6f31f44789fdbdb6539a5eb21.mp3",
-      "": ""
-    },
-    {
-      "title": "Con permiso",
-      "artist": "Troilo — Marino, A.",
-      "year": "1944",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_0c5edf249a634863996f5841c317736c.mp3",
-      "": ""
-    },
-    {
-      "title": "El Barrio Del Tambor",
-      "artist": "Troilo — Marino, A.",
-      "year": "1943",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_de3c3226649f4d66830f45e5d3481ea7.mp3",
-      "": ""
-    },
-    {
-      "title": "La Mulateada",
-      "artist": "Di Sarli — Rufino, R.",
-      "year": "1941",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_defc1b76a10c404d9f1ea1aa90f8dd2d.mp3",
+      "title": "Ausencia",
+      "artist": "Di Sarli — Volpe, A.",
+      "year": "1940",
+      "genre": "Vals - vocal",
+      "url": "https://static.wixstatic.com/mp3/22cbfd_60b8684cc26641268ed919d2f5cd34ac.mp3",
       "": ""
     }
   ]
