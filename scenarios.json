@@ -1,141 +1,61 @@
 {
   "1": {
-    "desc": "The dancers have just arrived. Mostly beginners with a handful of intermediate dancers.",
-    "goal": "Build a tanda towards the first vals tanda.",
-    "eventTime": "First hour",
+    "desc": "The milonga just opened and you have to get dancers on the floor and get them moving. You want to build their energy towards your first milonga but not overdo it.",
+    "goal": "Create a super tanda to get dancers on the floor and mixing.",
+    "eventTime": "1st Hour",
+    "tandas": [
+      4,
+      4,
+      3,
+      4,
+      4,
+      3
+    ],
     "start": null,
-    "target": {
-      "title": "Isabelita",
-      "artist": "Rodriguez — Moreno, A.",
-      "year": "1940",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_fd9880ed12854cc1ab66d133a4e6f415.mp3",
-      "": ""
-    }
-  },
-  "2": {
-    "desc": "More dancers are coming in. Still mostly beginners and a few more intermediate dancers.\nYou want to encourage them to interact and mix.",
-    "goal": "Build from 1st vals tanda to the 1st milonga tanda.",
-    "eventTime": "First Hour",
-    "start": {
-      "title": "La Zandunga",
-      "artist": "Canaro — Amor",
-      "year": "1939",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7702a3d2b1c341ec8b7cab287859d65a.mp3",
-      "": ""
-    },
-    "target": {
-      "title": "Negrito",
-      "artist": "Canaro — Galan",
-      "year": "1934",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_2f5f96af204a4dca8da167136887e22f.mp3",
-      "": ""
-    }
-  },
-  "3": {
-    "desc": "The crowd is building up and more intermediate dancers have arrived.",
-    "goal": "Build from 1st milonga tanda to 2nd vals tanda",
-    "eventTime": "2nd Hour",
-    "start": {
-      "title": "Milonga Criolla",
-      "artist": "Canaro — Maida",
-      "year": "1936",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_cd1c2afc5cea4fc5bf82b53af67f3440.mp3",
-      "": ""
-    },
-    "target": {
-      "title": "Con Los Amigos",
-      "artist": "Tanturi — Castillo",
-      "year": "1943",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_fee0d70ddd924a75837761c901833378.mp3",
-      "": ""
-    }
-  },
-  "4": {
-    "desc": "The floor should be buzzing with energy and excitement. You need to use this to build to your energetic milonga without burning them out.",
-    "goal": "Build from 2nd vals tanda to 2nd milonga tanda",
-    "eventTime": "2nd Hour",
-    "start": {
-      "title": "Tu Vieja Venata",
-      "artist": "Tanturi — Campos y Videla",
-      "year": "1945",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7f3cf218f5ff4f41979c460530f1c446.mp3",
-      "": ""
-    },
-    "target": {
-      "title": "La milonga que hacia falta",
-      "artist": "Donato — Lagos",
-      "year": "1938",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_19a656ce84f9428caa7eff43d5fab59d.mp3",
-      "": ""
-    }
-  },
-  "5": {
-    "desc": "Most of the dancers now are intermediate and advanced dancers. You want these groups to mix more with each other and explore various moods. Still consider the musicality level of intermediate dancers as the baseline.",
-    "goal": "Build from 2nd milonga to 3rd vals tanda",
-    "eventTime": "3rd Hour",
-    "start": {
-      "title": "Por La Huella",
-      "artist": "Biagi — Saavedra",
-      "year": "1948",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_bb1ab53358df45e0b23ffdc0842f4473.mp3",
-      "": ""
-    },
-    "target": {
-      "title": "No Vuelvas María",
-      "artist": "De Angelis — Dante y Martel",
-      "year": "1950",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_20d478271c634ce38b14105b906ad606.mp3",
-      "": ""
-    }
-  },
-  "6": {
-    "desc": "The dancers are mixing well. The advanced dancers are starting to crave for more complexity. Warm them up but save some energy for the last hour.",
-    "goal": "Build from 3rd vals tanda to last milonga tanda",
-    "eventTime": "3rd Hour",
-    "start": {
-      "title": "Lagrimitias de Mi Corazon",
-      "artist": "Troilo — Rivero y Ruiz",
-      "year": "1948",
-      "genre": "Vals - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_2cfb580ab9314f2cb50012ea9d35c70c.mp3",
-      "": ""
-    },
-    "target": {
-      "title": "Milonga de los Florntines",
-      "artist": "O.T. Victor — Balcarce",
-      "year": "1937",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_df9ba45479af47daa3517b0f6d5de4fc.mp3",
-      "": ""
-    }
-  },
-  "7": {
-    "desc": "This is the beginning of the end of the event. The advanced dancers are primed for more complex movements, emotional shifts and deep connection.",
-    "goal": "Create an emotional peak from the last milonga",
-    "eventTime": "Last Hour",
-    "start": {
-      "title": "En Lo De Laura",
-      "artist": "D'Agostino — Vargas",
-      "year": "1943",
-      "genre": "Milonga - vocal",
-      "url": "https://static.wixstatic.com/mp3/22cbfd_7a0ce79682844665a534947f55f98d23.mp3",
-      "": ""
-    },
     "target": null
   },
-  "8": {
-    "desc": "Give the dancers something to remember the event by or something to excite them for the next event.",
-    "goal": "Close the event",
-    "eventTime": "Last Hour",
+  "2": {
+    "desc": "The floor is mixing well. More intermediate level dancers are on the floor and the advanced dancers are starting to show up.",
+    "goal": "Build a super tanda to your second milonga tanda",
+    "eventTime": "2nd Hour",
+    "tandas": [
+      4,
+      4,
+      3,
+      4,
+      4,
+      3
+    ],
+    "start": null,
+    "target": null
+  },
+  "3": {
+    "desc": "It's time to give the intermediate and advanced dancers things to explore and express. Most of the beginners have left.",
+    "goal": "Build a super tanda towards your 3rd (final) milonga tanda.",
+    "eventTime": "3rd Hour",
+    "tandas": [
+      4,
+      4,
+      3,
+      4,
+      4,
+      3
+    ],
+    "start": null,
+    "target": null
+  },
+  "4": {
+    "desc": "The space has opened up more and the advanced dancers want something memorable.",
+    "goal": "Build a super tanda to close your event.",
+    "eventTime": "4th Hour",
+    "tandas": [
+      4,
+      4,
+      3,
+      4,
+      4,
+      3
+    ],
     "start": null,
     "target": null
   }
